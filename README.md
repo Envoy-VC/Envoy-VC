@@ -107,16 +107,16 @@ while(dev.isCoding() && dev.isStuck())
 ![btc address](https://img.shields.io/badge/BTC-bc1q832u7flm5uylpqq68ehrxwfqyfq9tgmln8pg9d-76B900?style=for-the-badge)
 
 ## 📣 Quote of the hour
-<p>On two occasions I have been asked, ‘Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?’ I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question.”</p>
+<p>Two things are infinite: the universe and human stupidity; and I’m not sure about the universe.</p>
 
-<p>Charles Babbage</p>
+<p>Albert Einstein</p>
 
 Check back in an hour for new quote
 
 ## 📣 Joke of the hour
 
-<p>What's the best part about TCP jokes?</p>
-<p>I get to keep telling them until you get them.</p>
+<p>Why do programmers always mix up Halloween and Christmas?</p>
+<p>Because Oct 31 == Dec 25</p>
 
 
 Check back in an hour for new joke
