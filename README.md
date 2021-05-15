@@ -46,11 +46,7 @@ while(dev.isCoding() && dev.isStuck())
 # 📩 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Python  .MD 2 .PDF](https://envoy1084.hashnode.dev/python-md-2-pdf)
-- [Git and GitHub Essentials - #7 Undoing](https://envoy1084.hashnode.dev/7-undoing)
-- [Git and GitHub Essentials - #6 Git Diff](https://envoy1084.hashnode.dev/6-git-diff)
-- [Learn JavaScript the Eloquent Way- Operators](https://envoy1084.hashnode.dev/learn-javascript-operators)
-- [Git and GitHub Essentials - #5 Ignoring Files and Folders](https://envoy1084.hashnode.dev/5-ignoring-files-and-folders)
+
 <!-- BLOG-POST-LIST:END --> 
 
 ## 📌 Pinned Repositories
@@ -111,16 +107,16 @@ while(dev.isCoding() && dev.isStuck())
 ![btc address](https://img.shields.io/badge/BTC-bc1q832u7flm5uylpqq68ehrxwfqyfq9tgmln8pg9d-76B900?style=for-the-badge)
 
 ## 📣 Quote of the hour
-<p>Writing the first 90 percent of a computer program takes 90 percent of the time. The remaining ten percent also takes 90 percent of the time and the final touches also take 90 percent of the time.</p>
+<p>Linux is only free if your time has no value.</p>
 
-<p>N.J. Rubenking</p>
+<p>Jamie Zawinski</p>
 
 Check back in an hour for new quote
 
 ## 📣 Joke of the hour
 
-<p>I was gonna tell you a joke about UDP...</p>
-<p>...but you might not get it.</p>
+<p>There are 10 types of people in this world...</p>
+<p>Those who understand binary and those who don't</p>
 
 
 Check back in an hour for new joke
