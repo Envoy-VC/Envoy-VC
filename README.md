@@ -46,11 +46,7 @@ while(dev.isCoding() && dev.isStuck())
 # 📩 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Python  .MD 2 .PDF](https://envoy1084.hashnode.dev/python-md-2-pdf)
-- [Git and GitHub Essentials - #7 Undoing](https://envoy1084.hashnode.dev/7-undoing)
-- [Git and GitHub Essentials - #6 Git Diff](https://envoy1084.hashnode.dev/6-git-diff)
-- [Learn JavaScript the Eloquent Way- Operators](https://envoy1084.hashnode.dev/learn-javascript-operators)
-- [Git and GitHub Essentials - #5 Ignoring Files and Folders](https://envoy1084.hashnode.dev/5-ignoring-files-and-folders)
+
 <!-- BLOG-POST-LIST:END --> 
 
 ## 📌 Pinned Repositories
@@ -111,16 +107,16 @@ while(dev.isCoding() && dev.isStuck())
 ![btc address](https://img.shields.io/badge/BTC-bc1q832u7flm5uylpqq68ehrxwfqyfq9tgmln8pg9d-76B900?style=for-the-badge)
 
 ## 📣 Quote of the hour
-<p>Perl – The only language that looks the same before and after RSA encryption.</p>
+<p>I’ve noticed lately that the paranoid fear of computers becoming intelligent and taking over the world has almost entirely disappeared from the common culture.  Near as I can tell, this coincides with the release of MS-DOS.</p>
 
-<p>Keith Bostic</p>
+<p>Larry DeLuca</p>
 
 Check back in an hour for new quote
 
 ## 📣 Joke of the hour
 
-<p>How many programmers does it take to change a lightbulb?</p>
-<p>None that's a hardware problem</p>
+<p>What's the best thing about a Boolean?</p>
+<p>Even if you're wrong, you're only off by a bit.</p>
 
 
 Check back in an hour for new joke
