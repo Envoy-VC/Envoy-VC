@@ -107,16 +107,16 @@ while(dev.isCoding() && dev.isStuck())
 ![btc address](https://img.shields.io/badge/BTC-bc1q832u7flm5uylpqq68ehrxwfqyfq9tgmln8pg9d-76B900?style=for-the-badge)
 
 ## 📣 Quote of the hour
-<p>We know about as much about software quality problems as they knew about the Black Plague in the 1600s. We’ve seen the victims’ agonies and helped burn the corpses. We don’t know what causes it; we don’t really know if there is only one disease. We just suffer — and keep pouring our sewage into our water supply.</p>
+<p>Beware of bugs in the above code; I have only proved it correct, not tried it. </p>
 
-<p>Tom Van Vleck</p>
+<p>Donald Knuth</p>
 
 Check back in an hour for new quote
 
 ## 📣 Joke of the hour
 
-<p>What's the object-oriented way to become wealthy?</p>
-<p>Inheritance</p>
+<p>A DHCP packet walks into a bar and asks for a beer.</p>
+<p>Bartender says, "here, but I’ll need that back in an hour!"</p>
 
 
 Check back in an hour for new joke
