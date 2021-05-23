@@ -46,11 +46,7 @@ while(dev.isCoding() && dev.isStuck())
 # 📩 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Python  .MD 2 .PDF](https://envoy1084.hashnode.dev/python-md-2-pdf)
-- [Git and GitHub Essentials - #7 Undoing](https://envoy1084.hashnode.dev/7-undoing)
-- [Git and GitHub Essentials - #6 Git Diff](https://envoy1084.hashnode.dev/6-git-diff)
-- [Learn JavaScript the Eloquent Way- Operators](https://envoy1084.hashnode.dev/learn-javascript-operators)
-- [Git and GitHub Essentials - #5 Ignoring Files and Folders](https://envoy1084.hashnode.dev/5-ignoring-files-and-folders)
+
 <!-- BLOG-POST-LIST:END --> 
 
 ## 📌 Pinned Repositories
@@ -119,8 +115,8 @@ Check back in an hour for new quote
 
 ## 📣 Joke of the hour
 
-<p>A user interface is like a joke.</p>
-<p>If you have to explain it then it is not that good.</p>
+<p>To understand what recursion is...</p>
+<p>You must first understand what recursion is</p>
 
 
 Check back in an hour for new joke
