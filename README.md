@@ -46,11 +46,7 @@ while(dev.isCoding() && dev.isStuck())
 # 📩 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Zoom Automation Using Python](https://envoy1084.hashnode.dev/zoom-automation-using-python-1)
-- [Zoom Automation Using Python](https://envoy1084.hashnode.dev/zoom-automation-using-python)
-- [Python  .MD 2 .PDF](https://envoy1084.hashnode.dev/python-md-2-pdf)
-- [Git and GitHub Essentials - #7 Undoing](https://envoy1084.hashnode.dev/7-undoing)
-- [Git and GitHub Essentials - #6 Git Diff](https://envoy1084.hashnode.dev/6-git-diff)
+
 <!-- BLOG-POST-LIST:END --> 
 
 ## 📌 Pinned Repositories
@@ -111,16 +107,16 @@ while(dev.isCoding() && dev.isStuck())
 ![btc address](https://img.shields.io/badge/BTC-bc1q832u7flm5uylpqq68ehrxwfqyfq9tgmln8pg9d-76B900?style=for-the-badge)
 
 ## 📣 Quote of the hour
-<p>XML is like violence – if it doesn’t solve your problems, you are not using enough of it.</p>
+<p>Beware of bugs in the above code; I have only proved it correct, not tried it. </p>
 
-<p>Unknown</p>
+<p>Donald Knuth</p>
 
 Check back in an hour for new quote
 
 ## 📣 Joke of the hour
 
-<p>Why do C# and Java developers keep breaking their keyboards?</p>
-<p>Because they use a strongly typed language.</p>
+<p>The punchline often arrives before the set-up.</p>
+<p>Do you know the problem with UDP jokes?</p>
 
 
 Check back in an hour for new joke
