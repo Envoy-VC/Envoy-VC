@@ -46,11 +46,7 @@ while(dev.isCoding() && dev.isStuck())
 # 📩 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Zoom Automation Using Python](https://envoy1084.hashnode.dev/zoom-automation-using-python-1)
-- [Zoom Automation Using Python](https://envoy1084.hashnode.dev/zoom-automation-using-python)
-- [Python  .MD 2 .PDF](https://envoy1084.hashnode.dev/python-md-2-pdf)
-- [Git and GitHub Essentials - #7 Undoing](https://envoy1084.hashnode.dev/7-undoing)
-- [Git and GitHub Essentials - #6 Git Diff](https://envoy1084.hashnode.dev/6-git-diff)
+
 <!-- BLOG-POST-LIST:END --> 
 
 ## 📌 Pinned Repositories
@@ -111,16 +107,16 @@ while(dev.isCoding() && dev.isStuck())
 ![btc address](https://img.shields.io/badge/BTC-bc1q832u7flm5uylpqq68ehrxwfqyfq9tgmln8pg9d-76B900?style=for-the-badge)
 
 ## 📣 Quote of the hour
-<p>Walking on water and developing software from a specification are easy if both are frozen.</p>
+<p>If debugging is the process of removing software bugs, then programming must be the process of putting them in.</p>
 
-<p>Edward V Berard</p>
+<p>E. W. Dijkstra</p>
 
 Check back in an hour for new quote
 
 ## 📣 Joke of the hour
 
-<p>A programmer puts two glasses on his bedside table before going to sleep.</p>
-<p>A full one, in case he gets thirsty, and an empty one, in case he doesn’t.</p>
+<p>A user interface is like a joke.</p>
+<p>If you have to explain it then it is not that good.</p>
 
 
 Check back in an hour for new joke
