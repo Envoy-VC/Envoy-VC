@@ -46,7 +46,11 @@ while(dev.isCoding() && dev.isStuck())
 # 📩 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Zoom Automation Using Python](https://envoy1084.hashnode.dev/zoom-automation-using-python-1)
+- [Zoom Automation Using Python](https://envoy1084.hashnode.dev/zoom-automation-using-python)
+- [Python  .MD 2 .PDF](https://envoy1084.hashnode.dev/python-md-2-pdf)
+- [Git and GitHub Essentials - #7 Undoing](https://envoy1084.hashnode.dev/7-undoing)
+- [Git and GitHub Essentials - #6 Git Diff](https://envoy1084.hashnode.dev/6-git-diff)
 <!-- BLOG-POST-LIST:END --> 
 
 ## 📌 Pinned Repositories
