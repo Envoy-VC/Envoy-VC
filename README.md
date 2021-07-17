@@ -46,11 +46,7 @@ while(dev.isCoding() && dev.isStuck())
 # 📩 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Zoom Automation Using Python](https://envoy1084.hashnode.dev/zoom-automation-using-python-1)
-- [Zoom Automation Using Python](https://envoy1084.hashnode.dev/zoom-automation-using-python)
-- [Python  .MD 2 .PDF](https://envoy1084.hashnode.dev/python-md-2-pdf)
-- [Git and GitHub Essentials - #7 Undoing](https://envoy1084.hashnode.dev/7-undoing)
-- [Git and GitHub Essentials - #6 Git Diff](https://envoy1084.hashnode.dev/6-git-diff)
+
 <!-- BLOG-POST-LIST:END --> 
 
 ## 📌 Pinned Repositories
@@ -111,16 +107,16 @@ while(dev.isCoding() && dev.isStuck())
 ![btc address](https://img.shields.io/badge/BTC-bc1q832u7flm5uylpqq68ehrxwfqyfq9tgmln8pg9d-76B900?style=for-the-badge)
 
 ## 📣 Quote of the hour
-<p>You should name a variable using the same care with which you name a first-born child.</p>
+<p>There are only two kinds of programming languages: those people always bitch about and those nobody uses.</p>
 
-<p>James O. Coplien</p>
+<p>Bjarne Stroustrup</p>
 
 Check back in an hour for new quote
 
 ## 📣 Joke of the hour
 
-<p>['hip', 'hip']</p>
-<p>(hip hip array)</p>
+<p>What's the best thing about a Boolean?</p>
+<p>Even if you're wrong, you're only off by a bit.</p>
 
 
 Check back in an hour for new joke
