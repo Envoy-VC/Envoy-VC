@@ -46,11 +46,7 @@ while(dev.isCoding() && dev.isStuck())
 # 📩 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Zoom Automation Using Python](https://envoy1084.hashnode.dev/zoom-automation-using-python)
-- [Python  .MD 2 .PDF](https://envoy1084.hashnode.dev/python-md-2-pdf)
-- [Git and GitHub Essentials - #7 Undoing](https://envoy1084.hashnode.dev/7-undoing)
-- [Git and GitHub Essentials - #6 Git Diff](https://envoy1084.hashnode.dev/6-git-diff)
-- [Learn JavaScript the Eloquent Way- Operators](https://envoy1084.hashnode.dev/learn-javascript-operators)
+
 <!-- BLOG-POST-LIST:END --> 
 
 ## 📌 Pinned Repositories
@@ -111,16 +107,16 @@ while(dev.isCoding() && dev.isStuck())
 ![btc address](https://img.shields.io/badge/BTC-bc1q832u7flm5uylpqq68ehrxwfqyfq9tgmln8pg9d-76B900?style=for-the-badge)
 
 ## 📣 Quote of the hour
-<p>In C++ it’s harder to shoot yourself in the foot, but when you do, you blow off your whole leg.</p>
+<p>A computer lets you make more mistakes faster than any other invention in human history, with the possible exceptions of handguns and tequila.</p>
 
-<p>Bjarne Stroustrup</p>
+<p>Mitch Ratcliffe</p>
 
 Check back in an hour for new quote
 
 ## 📣 Joke of the hour
 
-<p>Why did the programmer quit his job?</p>
-<p>Because he didn't get arrays.</p>
+<p>Why do Java programmers wear glasses?</p>
+<p>Because they don't C#</p>
 
 
 Check back in an hour for new joke
