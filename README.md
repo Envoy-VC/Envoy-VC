@@ -46,11 +46,7 @@ while(dev.isCoding() && dev.isStuck())
 # 📩 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Zoom Automation Using Python](https://envoy1084.hashnode.dev/zoom-automation-using-python-1)
-- [Zoom Automation Using Python](https://envoy1084.hashnode.dev/zoom-automation-using-python)
-- [Python  .MD 2 .PDF](https://envoy1084.hashnode.dev/python-md-2-pdf)
-- [Git and GitHub Essentials - #7 Undoing](https://envoy1084.hashnode.dev/7-undoing)
-- [Git and GitHub Essentials - #6 Git Diff](https://envoy1084.hashnode.dev/6-git-diff)
+
 <!-- BLOG-POST-LIST:END --> 
 
 ## 📌 Pinned Repositories
@@ -111,16 +107,16 @@ while(dev.isCoding() && dev.isStuck())
 ![btc address](https://img.shields.io/badge/BTC-bc1q832u7flm5uylpqq68ehrxwfqyfq9tgmln8pg9d-76B900?style=for-the-badge)
 
 ## 📣 Quote of the hour
-<p>We know about as much about software quality problems as they knew about the Black Plague in the 1600s. We’ve seen the victims’ agonies and helped burn the corpses. We don’t know what causes it; we don’t really know if there is only one disease. We just suffer — and keep pouring our sewage into our water supply.</p>
+<p>A computer lets you make more mistakes faster than any other invention in human history, with the possible exceptions of handguns and tequila.</p>
 
-<p>Tom Van Vleck</p>
+<p>Mitch Ratcliffe</p>
 
 Check back in an hour for new quote
 
 ## 📣 Joke of the hour
 
-<p>There are 10 kinds of people in this world.</p>
-<p>Those who understand binary, those who don't, and those who weren't expecting a base 3 joke.</p>
+<p>How do you check if a webpage is HTML5?</p>
+<p>Try it out on Internet Explorer</p>
 
 
 Check back in an hour for new joke
