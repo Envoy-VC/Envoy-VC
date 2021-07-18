@@ -46,11 +46,7 @@ while(dev.isCoding() && dev.isStuck())
 # 📩 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Zoom Automation Using Python](https://envoy1084.hashnode.dev/zoom-automation-using-python)
-- [Python  .MD 2 .PDF](https://envoy1084.hashnode.dev/python-md-2-pdf)
-- [Git and GitHub Essentials - #7 Undoing](https://envoy1084.hashnode.dev/7-undoing)
-- [Git and GitHub Essentials - #6 Git Diff](https://envoy1084.hashnode.dev/6-git-diff)
-- [Learn JavaScript the Eloquent Way- Operators](https://envoy1084.hashnode.dev/learn-javascript-operators)
+
 <!-- BLOG-POST-LIST:END --> 
 
 ## 📌 Pinned Repositories
@@ -111,16 +107,16 @@ while(dev.isCoding() && dev.isStuck())
 ![btc address](https://img.shields.io/badge/BTC-bc1q832u7flm5uylpqq68ehrxwfqyfq9tgmln8pg9d-76B900?style=for-the-badge)
 
 ## 📣 Quote of the hour
-<p>We should forget about small efficiencies, say about 97% of the time: premature optimization is the root of all evil.</p>
+<p>I’ve noticed lately that the paranoid fear of computers becoming intelligent and taking over the world has almost entirely disappeared from the common culture.  Near as I can tell, this coincides with the release of MS-DOS.</p>
 
-<p>C. A. R. Hoare</p>
+<p>Larry DeLuca</p>
 
 Check back in an hour for new quote
 
 ## 📣 Joke of the hour
 
-<p>A user interface is like a joke.</p>
-<p>If you have to explain it then it is not that good.</p>
+<p>A DHCP packet walks into a bar and asks for a beer.</p>
+<p>Bartender says, "here, but I’ll need that back in an hour!"</p>
 
 
 Check back in an hour for new joke
