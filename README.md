@@ -46,11 +46,7 @@ while(dev.isCoding() && dev.isStuck())
 # 📩 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Zoom Automation Using Python](https://envoy1084.hashnode.dev/zoom-automation-using-python)
-- [Python  .MD 2 .PDF](https://envoy1084.hashnode.dev/python-md-2-pdf)
-- [Git and GitHub Essentials - #7 Undoing](https://envoy1084.hashnode.dev/7-undoing)
-- [Git and GitHub Essentials - #6 Git Diff](https://envoy1084.hashnode.dev/6-git-diff)
-- [Learn JavaScript the Eloquent Way- Operators](https://envoy1084.hashnode.dev/learn-javascript-operators)
+
 <!-- BLOG-POST-LIST:END --> 
 
 ## 📌 Pinned Repositories
@@ -111,16 +107,16 @@ while(dev.isCoding() && dev.isStuck())
 ![btc address](https://img.shields.io/badge/BTC-bc1q832u7flm5uylpqq68ehrxwfqyfq9tgmln8pg9d-76B900?style=for-the-badge)
 
 ## 📣 Quote of the hour
-<p>Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.</p>
+<p>Linux is only free if your time has no value.</p>
 
-<p>Rick Osborne</p>
+<p>Jamie Zawinski</p>
 
 Check back in an hour for new quote
 
 ## 📣 Joke of the hour
 
-<p>There are 10 types of people in this world...</p>
-<p>Those who understand binary and those who don't</p>
+<p>If you put a million monkeys at a million keyboards, one of them will eventually write a Java program</p>
+<p>the rest of them will write Perl</p>
 
 
 Check back in an hour for new joke
