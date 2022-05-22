@@ -2,7 +2,7 @@ name: StarGazers
 on:
   schedule: [{ cron: "0 * * * *" }]
   workflow_dispatch:
-  push: { branches: ["master"] }
+  push: { branches: ["master", "main"] }
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
