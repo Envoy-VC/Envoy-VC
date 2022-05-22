@@ -280,7 +280,7 @@ const vedant = {
 
 </td><td valign="top" width="50%">
 
-<img src="./metrics.plugin.achievements.svg">
+<img src="./assets/metrics.plugin.achievements.svg">
 
 </td></tr></table>
 
