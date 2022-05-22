@@ -1,0 +1,19 @@
+name: StarGazers
+on:
+  schedule: [{ cron: "0 * * * *" }]
+  workflow_dispatch:
+  push: { branches: ["master"] }
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: assets/metrics.plugin.stargazers.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Envoy-VC
+          template: classic
+          base: ""
+          config_timezone: Asia/Calcutta
+          plugin_stargazers: yes
+          plugin_stargazers_charts_type: classic

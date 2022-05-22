@@ -1,0 +1,24 @@
+# Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
+name: Isometric Contributions
+on:
+  # Schedule updates (each hour)
+  schedule: [{ cron: "0 * * * *" }]
+  # Lines below let you run workflow manually and on each commit
+  workflow_dispatch:
+  push: { branches: ["master"] }
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: assets/metrics.plugin.isocalendar.fullyear.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Options
+          user: Envoy-VC
+          template: classic
+          base: ""
+          config_timezone: Asia/Calcutta
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year

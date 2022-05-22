@@ -1,0 +1,27 @@
+# Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
+name: Twitter
+on:
+  # Schedule updates (each hour)
+  schedule: [{ cron: "0 * * * *" }]
+  # Lines below let you run workflow manually and on each commit
+  workflow_dispatch:
+  push: { branches: ["master"] }
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Current configuration doesn't require a GitHub token
+          token: NOT_NEEDED
+          filename: assets/metrics.plugin.tweets.svg
+          plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
+          # Options
+          user: Envoy-VC
+          template: classic
+          base: ""
+          config_timezone: Asia/Calcutta
+          plugin_tweets: yes
+          plugin_tweets_attachments: yes
+          plugin_tweets_limit: 1
+          plugin_tweets_user: Envoy_1084
