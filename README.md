@@ -135,18 +135,18 @@ const vedant = {
       <a href="https://github.com/Dev-HideyukiTakahashi">Hideyuki Takahashi</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Bornunique911">
-        <img src="https://avatars2.githubusercontent.com/u/69379200" width="100px;" alt="Bornunique911"/>
-      </a>
-      <br />
-      <a href="https://github.com/Bornunique911">Bornunique911</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/hyc0812">
         <img src="https://avatars2.githubusercontent.com/u/80454212" width="100px;" alt="hyc0812"/>
       </a>
       <br />
       <a href="https://github.com/hyc0812">Yongchang He</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Bornunique911">
+        <img src="https://avatars2.githubusercontent.com/u/69379200" width="100px;" alt="Bornunique911"/>
+      </a>
+      <br />
+      <a href="https://github.com/Bornunique911">Bornunique911</a>
     </td>
     <td align="center">
       <a href="https://github.com/Amarjit-ph">
