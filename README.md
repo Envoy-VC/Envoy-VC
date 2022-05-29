@@ -214,18 +214,18 @@ const vedant = {
       <a href="https://github.com/nikoescobal">Nikolas Escobal</a>
     </td>
     <td align="center">
-      <a href="https://github.com/ericasrafael">
-        <img src="https://avatars2.githubusercontent.com/u/91800929" width="100px;" alt="ericasrafael"/>
-      </a>
-      <br />
-      <a href="https://github.com/ericasrafael">Erica Rafael</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/liesauer">
         <img src="https://avatars2.githubusercontent.com/u/8676741" width="100px;" alt="liesauer"/>
       </a>
       <br />
       <a href="https://github.com/liesauer">L!εsAμεr</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ericasrafael">
+        <img src="https://avatars2.githubusercontent.com/u/91800929" width="100px;" alt="ericasrafael"/>
+      </a>
+      <br />
+      <a href="https://github.com/ericasrafael">Erica Rafael</a>
     </td>
   </tr>
 </table>
