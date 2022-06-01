@@ -200,6 +200,13 @@ const vedant = {
       <a href="https://github.com/pierrete">Pamela Rod</a>
     </td>
     <td align="center">
+      <a href="https://github.com/369gtech">
+        <img src="https://avatars2.githubusercontent.com/u/73673561" width="100px;" alt="369gtech"/>
+      </a>
+      <br />
+      <a href="https://github.com/369gtech">Steven Mcleod</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/vicbarkfeld">
         <img src="https://avatars2.githubusercontent.com/u/82127044" width="100px;" alt="vicbarkfeld"/>
       </a>
@@ -212,13 +219,6 @@ const vedant = {
       </a>
       <br />
       <a href="https://github.com/ericasrafael">Erica Rafael</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/369gtech">
-        <img src="https://avatars2.githubusercontent.com/u/73673561" width="100px;" alt="369gtech"/>
-      </a>
-      <br />
-      <a href="https://github.com/369gtech">Steven Mcleod</a>
     </td>
     <td align="center">
       <a href="https://github.com/nikoescobal">
