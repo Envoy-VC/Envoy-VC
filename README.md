@@ -128,18 +128,18 @@ const vedant = {
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/Dev-HideyukiTakahashi">
-        <img src="https://avatars2.githubusercontent.com/u/76458498" width="100px;" alt="Dev-HideyukiTakahashi"/>
-      </a>
-      <br />
-      <a href="https://github.com/Dev-HideyukiTakahashi">Hideyuki Takahashi</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/hyc0812">
         <img src="https://avatars2.githubusercontent.com/u/80454212" width="100px;" alt="hyc0812"/>
       </a>
       <br />
       <a href="https://github.com/hyc0812">Yongchang He</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Dev-HideyukiTakahashi">
+        <img src="https://avatars2.githubusercontent.com/u/76458498" width="100px;" alt="Dev-HideyukiTakahashi"/>
+      </a>
+      <br />
+      <a href="https://github.com/Dev-HideyukiTakahashi">Hideyuki Takahashi</a>
     </td>
     <td align="center">
       <a href="https://github.com/Bornunique911">
