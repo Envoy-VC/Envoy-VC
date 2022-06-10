@@ -128,6 +128,13 @@ const vedant = {
 <table>
   <tr>
     <td align="center">
+      <a href="https://github.com/haunticaachris">
+        <img src="https://avatars2.githubusercontent.com/u/80642560" width="100px;" alt="haunticaachris"/>
+      </a>
+      <br />
+      <a href="https://github.com/haunticaachris">Chris</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/hyc0812">
         <img src="https://avatars2.githubusercontent.com/u/80454212" width="100px;" alt="hyc0812"/>
       </a>
@@ -169,6 +176,8 @@ const vedant = {
       <br />
       <a href="https://github.com/OxygenXXX">Haruka Nakano</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/bglamadrid">
         <img src="https://avatars2.githubusercontent.com/u/68207359" width="100px;" alt="bglamadrid"/>
@@ -176,8 +185,6 @@ const vedant = {
       <br />
       <a href="https://github.com/bglamadrid">Benjamin La Madrid</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/Zorono">
         <img src="https://avatars2.githubusercontent.com/u/19735243" width="100px;" alt="Zorono"/>
@@ -212,13 +219,6 @@ const vedant = {
       </a>
       <br />
       <a href="https://github.com/369gtech">Steven Mcleod</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/vicbarkfeld">
-        <img src="https://avatars2.githubusercontent.com/u/82127044" width="100px;" alt="vicbarkfeld"/>
-      </a>
-      <br />
-      <a href="https://github.com/vicbarkfeld">Victoria Barkfeld</a>
     </td>
     <td align="center">
       <a href="https://github.com/felpfsf">
