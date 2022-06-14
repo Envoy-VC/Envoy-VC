@@ -186,13 +186,6 @@ const vedant = {
       <a href="https://github.com/bglamadrid">Benjamin La Madrid</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Zorono">
-        <img src="https://avatars2.githubusercontent.com/u/19735243" width="100px;" alt="Zorono"/>
-      </a>
-      <br />
-      <a href="https://github.com/Zorono">[BR]John_Magdy</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/marioarl">
         <img src="https://avatars2.githubusercontent.com/u/81307784" width="100px;" alt="marioarl"/>
       </a>
@@ -207,13 +200,6 @@ const vedant = {
       <a href="https://github.com/blacky-yg">Hamidou TESSILIMI</a>
     </td>
     <td align="center">
-      <a href="https://github.com/pierrete">
-        <img src="https://avatars2.githubusercontent.com/u/97007642" width="100px;" alt="pierrete"/>
-      </a>
-      <br />
-      <a href="https://github.com/pierrete">Pamela Rod</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/felpfsf">
         <img src="https://avatars2.githubusercontent.com/u/2619027" width="100px;" alt="felpfsf"/>
       </a>
@@ -221,11 +207,25 @@ const vedant = {
       <a href="https://github.com/felpfsf">Felipe F.</a>
     </td>
     <td align="center">
+      <a href="https://github.com/pierrete">
+        <img src="https://avatars2.githubusercontent.com/u/97007642" width="100px;" alt="pierrete"/>
+      </a>
+      <br />
+      <a href="https://github.com/pierrete">Pamela Rod</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/369gtech">
         <img src="https://avatars2.githubusercontent.com/u/73673561" width="100px;" alt="369gtech"/>
       </a>
       <br />
       <a href="https://github.com/369gtech">Steven Mcleod</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/vicbarkfeld">
+        <img src="https://avatars2.githubusercontent.com/u/82127044" width="100px;" alt="vicbarkfeld"/>
+      </a>
+      <br />
+      <a href="https://github.com/vicbarkfeld">Victoria Barkfeld</a>
     </td>
   </tr>
 </table>
