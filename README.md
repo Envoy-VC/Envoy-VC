@@ -135,13 +135,6 @@ const vedant = {
       <a href="https://github.com/hyc0812">Yongchang He</a>
     </td>
     <td align="center">
-      <a href="https://github.com/haunticaachris">
-        <img src="https://avatars2.githubusercontent.com/u/80642560" width="100px;" alt="haunticaachris"/>
-      </a>
-      <br />
-      <a href="https://github.com/haunticaachris">Chris</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Dev-HideyukiTakahashi">
         <img src="https://avatars2.githubusercontent.com/u/76458498" width="100px;" alt="Dev-HideyukiTakahashi"/>
       </a>
@@ -176,8 +169,6 @@ const vedant = {
       <br />
       <a href="https://github.com/OxygenXXX">Haruka Nakano</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/bglamadrid">
         <img src="https://avatars2.githubusercontent.com/u/68207359" width="100px;" alt="bglamadrid"/>
@@ -185,6 +176,8 @@ const vedant = {
       <br />
       <a href="https://github.com/bglamadrid">Benjamin La Madrid</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/marioarl">
         <img src="https://avatars2.githubusercontent.com/u/81307784" width="100px;" alt="marioarl"/>
@@ -226,6 +219,13 @@ const vedant = {
       </a>
       <br />
       <a href="https://github.com/vicbarkfeld">Victoria Barkfeld</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/souadhimel">
+        <img src="https://avatars2.githubusercontent.com/u/86860605" width="100px;" alt="souadhimel"/>
+      </a>
+      <br />
+      <a href="https://github.com/souadhimel">Souad Anam Himel</a>
     </td>
   </tr>
 </table>
