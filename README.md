@@ -221,11 +221,11 @@ const vedant = {
       <a href="https://github.com/vicbarkfeld">Victoria Barkfeld</a>
     </td>
     <td align="center">
-      <a href="https://github.com/souadhimel">
-        <img src="https://avatars2.githubusercontent.com/u/86860605" width="100px;" alt="souadhimel"/>
+      <a href="https://github.com/peng1027">
+        <img src="https://avatars2.githubusercontent.com/u/20227510" width="100px;" alt="peng1027"/>
       </a>
       <br />
-      <a href="https://github.com/souadhimel">Souad Anam Himel</a>
+      <a href="https://github.com/peng1027">peng1027</a>
     </td>
   </tr>
 </table>
