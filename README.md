@@ -5,7 +5,7 @@
 
 # Hi there, I'm Vedant 🛸
 
-<a href="https://app.daily.dev/Envoy_"><img align="right" src="https://api.daily.dev/devcards/54371a309e0a49fdbb18b238d19f6ac9.png?r=kas" width="320" alt="Vedant Chainani's Dev Card"/></a>
+<a href="https://app.daily.dev/Envoy_"><img align="right" src="https://api.daily.dev/devcards/54371a309e0a49fdbb18b238d19f6ac9.png?r=kas" width="280" alt="Vedant Chainani's Dev Card"/></a>
 
 <p float="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=Blockchain+Enthusiast!;Currently+Learning+Solidity"alt="Currently Learning Solidity">
