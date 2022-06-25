@@ -5,7 +5,7 @@
 
 # Hi there, I'm Vedant 🛸
 
-<a href="https://app.daily.dev/Envoy_"><img align="right" src="https://api.daily.dev/devcards/54371a309e0a49fdbb18b238d19f6ac9.png?r=kas" width="350" alt="Vedant Chainani's Dev Card"/></a>
+<a href="https://app.daily.dev/Envoy_"><img align="right" src="https://api.daily.dev/devcards/54371a309e0a49fdbb18b238d19f6ac9.png?r=kas" width="320" alt="Vedant Chainani's Dev Card"/></a>
 
 <p float="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=Blockchain+Enthusiast!;Currently+Learning+Solidity"alt="Currently Learning Solidity">
@@ -33,8 +33,6 @@
   <br>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
-
-<br>
 
 ![line](https://cdn.discordapp.com/attachments/842741907720896512/842806312386428948/gif.gif)
 
@@ -94,7 +92,7 @@ contract Profile {
 <br>
 
 ---
-## 📊 Github Stats
+### 📊 Github Stats
 
 <details>
 <summary>Expand</summary>
@@ -122,12 +120,11 @@ contract Profile {
 </td></tr></table>
 
 </details>
-<br>
 
 ---
 
 
-## 📊 Development Breakdown
+### 📊 Development Breakdown
 
 <details>
 <summary>Expand</summary>
@@ -136,11 +133,9 @@ contract Profile {
 
 </details>
 
-<br>
-
 ---
 
-## 📕 Blog Posts
+### 📕 Blog Posts
 
 <details>
 <summary>Expand</summary>
@@ -149,11 +144,9 @@ contract Profile {
 
 </details>
 
-<br>
-
 ---
 
-## ✨ My Followers
+### ✨ My Followers
 
 <details>
 <summary> Expand </summary>
@@ -270,7 +263,7 @@ contract Profile {
 ---
 
 
-## 🌸 Latest Tweets
+### 🌸 Latest Tweets
 
 <details>
 <summary>Expand</summary>
@@ -278,8 +271,6 @@ contract Profile {
 <a href="https://www.twitter.com/Envoy_1084"><img src="./assets/metrics.plugin.tweets.svg"></a>
 
 </details>
-
-<br>
 
 ---
 
@@ -293,12 +284,10 @@ contract Profile {
 
 </details>
 
-<br>
-
 ---
 
 
-## ⚙️ Misc
+### ⚙️ Misc
 
 <table><tr><td valign="top" width="50%">
 
