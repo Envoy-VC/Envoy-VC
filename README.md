@@ -30,7 +30,6 @@
 - 👐 I’m looking to contribute to open source
 - 🥅 2022 Goals: Learn more about Blockchains and Solidity
 - ⚡ Fun fact: I love to play games
-  <br>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
 
