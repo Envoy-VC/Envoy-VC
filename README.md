@@ -205,18 +205,18 @@ contract Profile {
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/marioarl">
-        <img src="https://avatars2.githubusercontent.com/u/81307784" width="100px;" alt="marioarl"/>
-      </a>
-      <br />
-      <a href="https://github.com/marioarl">Mario Augusto Lima</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/felpfsf">
         <img src="https://avatars2.githubusercontent.com/u/2619027" width="100px;" alt="felpfsf"/>
       </a>
       <br />
       <a href="https://github.com/felpfsf">Felipe F.</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/marioarl">
+        <img src="https://avatars2.githubusercontent.com/u/81307784" width="100px;" alt="marioarl"/>
+      </a>
+      <br />
+      <a href="https://github.com/marioarl">Mario Augusto Lima</a>
     </td>
     <td align="center">
       <a href="https://github.com/blacky-yg">
