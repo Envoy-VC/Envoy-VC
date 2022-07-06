@@ -219,18 +219,18 @@ contract Profile {
       <a href="https://github.com/marioarl">Mario Augusto Lima</a>
     </td>
     <td align="center">
-      <a href="https://github.com/369gtech">
-        <img src="https://avatars2.githubusercontent.com/u/73673561" width="100px;" alt="369gtech"/>
-      </a>
-      <br />
-      <a href="https://github.com/369gtech">Steven Mcleod</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/blacky-yg">
         <img src="https://avatars2.githubusercontent.com/u/49866160" width="100px;" alt="blacky-yg"/>
       </a>
       <br />
       <a href="https://github.com/blacky-yg">Hamidou TESSILIMI</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/369gtech">
+        <img src="https://avatars2.githubusercontent.com/u/73673561" width="100px;" alt="369gtech"/>
+      </a>
+      <br />
+      <a href="https://github.com/369gtech">Steven Mcleod</a>
     </td>
     <td align="center">
       <a href="https://github.com/pierrete">
@@ -247,11 +247,11 @@ contract Profile {
       <a href="https://github.com/peng1027">peng1027</a>
     </td>
     <td align="center">
-      <a href="https://github.com/vicbarkfeld">
-        <img src="https://avatars2.githubusercontent.com/u/82127044" width="100px;" alt="vicbarkfeld"/>
+      <a href="https://github.com/liesauer">
+        <img src="https://avatars2.githubusercontent.com/u/8676741" width="100px;" alt="liesauer"/>
       </a>
       <br />
-      <a href="https://github.com/vicbarkfeld">Victoria Barkfeld</a>
+      <a href="https://github.com/liesauer">L!εsAμεr</a>
     </td>
   </tr>
 </table>
