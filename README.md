@@ -182,6 +182,13 @@ contract Profile {
       <a href="https://github.com/Bornunique911">Bornunique911</a>
     </td>
     <td align="center">
+      <a href="https://github.com/JohnyXu">
+        <img src="https://avatars2.githubusercontent.com/u/5744673" width="100px;" alt="JohnyXu"/>
+      </a>
+      <br />
+      <a href="https://github.com/JohnyXu">JohnyXu</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/Amarjit-ph">
         <img src="https://avatars2.githubusercontent.com/u/28795297" width="100px;" alt="Amarjit-ph"/>
       </a>
@@ -195,6 +202,8 @@ contract Profile {
       <br />
       <a href="https://github.com/OxygenXXX">Haruka Nakano</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/bglamadrid">
         <img src="https://avatars2.githubusercontent.com/u/68207359" width="100px;" alt="bglamadrid"/>
@@ -202,8 +211,6 @@ contract Profile {
       <br />
       <a href="https://github.com/bglamadrid">Benjamin La Madrid</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/felpfsf">
         <img src="https://avatars2.githubusercontent.com/u/2619027" width="100px;" alt="felpfsf"/>
@@ -245,13 +252,6 @@ contract Profile {
       </a>
       <br />
       <a href="https://github.com/peng1027">peng1027</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/vicbarkfeld">
-        <img src="https://avatars2.githubusercontent.com/u/82127044" width="100px;" alt="vicbarkfeld"/>
-      </a>
-      <br />
-      <a href="https://github.com/vicbarkfeld">Victoria Barkfeld</a>
     </td>
   </tr>
 </table>
