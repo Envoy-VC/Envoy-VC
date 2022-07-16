@@ -240,18 +240,18 @@ contract Profile {
       <a href="https://github.com/pierrete">Pamela Rod</a>
     </td>
     <td align="center">
-      <a href="https://github.com/blacky-yg">
-        <img src="https://avatars2.githubusercontent.com/u/49866160" width="100px;" alt="blacky-yg"/>
-      </a>
-      <br />
-      <a href="https://github.com/blacky-yg">Hamidou TESSILIMI</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/369gtech">
         <img src="https://avatars2.githubusercontent.com/u/73673561" width="100px;" alt="369gtech"/>
       </a>
       <br />
       <a href="https://github.com/369gtech">Steven Mcleod</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/blacky-yg">
+        <img src="https://avatars2.githubusercontent.com/u/49866160" width="100px;" alt="blacky-yg"/>
+      </a>
+      <br />
+      <a href="https://github.com/blacky-yg">Hamidou TESSILIMI</a>
     </td>
   </tr>
 </table>
