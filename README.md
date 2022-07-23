@@ -161,18 +161,18 @@ contract Profile {
       <a href="https://github.com/hyc0812">Yongchang He</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Dev-HideyukiTakahashi">
-        <img src="https://avatars2.githubusercontent.com/u/76458498" width="100px;" alt="Dev-HideyukiTakahashi"/>
-      </a>
-      <br />
-      <a href="https://github.com/Dev-HideyukiTakahashi">Hideyuki Takahashi</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Bornunique911">
         <img src="https://avatars2.githubusercontent.com/u/69379200" width="100px;" alt="Bornunique911"/>
       </a>
       <br />
       <a href="https://github.com/Bornunique911">Bornunique911</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Dev-HideyukiTakahashi">
+        <img src="https://avatars2.githubusercontent.com/u/76458498" width="100px;" alt="Dev-HideyukiTakahashi"/>
+      </a>
+      <br />
+      <a href="https://github.com/Dev-HideyukiTakahashi">Hideyuki Takahashi</a>
     </td>
     <td align="center">
       <a href="https://github.com/kenkirito">
@@ -226,18 +226,18 @@ contract Profile {
       <a href="https://github.com/pierrete">Pamela Rod</a>
     </td>
     <td align="center">
-      <a href="https://github.com/marioarl">
-        <img src="https://avatars2.githubusercontent.com/u/81307784" width="100px;" alt="marioarl"/>
-      </a>
-      <br />
-      <a href="https://github.com/marioarl">Mario Augusto Lima</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/fromgopi">
         <img src="https://avatars2.githubusercontent.com/u/22764510" width="100px;" alt="fromgopi"/>
       </a>
       <br />
       <a href="https://github.com/fromgopi">Gopi Krishna M</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/marioarl">
+        <img src="https://avatars2.githubusercontent.com/u/81307784" width="100px;" alt="marioarl"/>
+      </a>
+      <br />
+      <a href="https://github.com/marioarl">Mario Augusto Lima</a>
     </td>
     <td align="center">
       <a href="https://github.com/blacky-yg">
