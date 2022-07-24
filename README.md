@@ -205,18 +205,18 @@ contract Profile {
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/bglamadrid">
-        <img src="https://avatars2.githubusercontent.com/u/68207359" width="100px;" alt="bglamadrid"/>
-      </a>
-      <br />
-      <a href="https://github.com/bglamadrid">Benjamin La Madrid</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/felpfsf">
         <img src="https://avatars2.githubusercontent.com/u/2619027" width="100px;" alt="felpfsf"/>
       </a>
       <br />
       <a href="https://github.com/felpfsf">Felipe F.</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/bglamadrid">
+        <img src="https://avatars2.githubusercontent.com/u/68207359" width="100px;" alt="bglamadrid"/>
+      </a>
+      <br />
+      <a href="https://github.com/bglamadrid">Benjamin La Madrid</a>
     </td>
     <td align="center">
       <a href="https://github.com/pierrete">
