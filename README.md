@@ -226,18 +226,18 @@ contract Profile {
       <a href="https://github.com/fromgopi">Gopi Krishna M</a>
     </td>
     <td align="center">
-      <a href="https://github.com/pierrete">
-        <img src="https://avatars2.githubusercontent.com/u/97007642" width="100px;" alt="pierrete"/>
-      </a>
-      <br />
-      <a href="https://github.com/pierrete">Pamela Rod</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/marioarl">
         <img src="https://avatars2.githubusercontent.com/u/81307784" width="100px;" alt="marioarl"/>
       </a>
       <br />
       <a href="https://github.com/marioarl">Mario Augusto Lima</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/pierrete">
+        <img src="https://avatars2.githubusercontent.com/u/97007642" width="100px;" alt="pierrete"/>
+      </a>
+      <br />
+      <a href="https://github.com/pierrete">Pamela Rod</a>
     </td>
     <td align="center">
       <a href="https://github.com/blacky-yg">
