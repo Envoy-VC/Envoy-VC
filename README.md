@@ -154,6 +154,13 @@ contract Profile {
 <table>
   <tr>
     <td align="center">
+      <a href="https://github.com/tomast1337">
+        <img src="https://avatars2.githubusercontent.com/u/15125899" width="100px;" alt="tomast1337"/>
+      </a>
+      <br />
+      <a href="https://github.com/tomast1337">Nicolas Vycas Nery</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/hyc0812">
         <img src="https://avatars2.githubusercontent.com/u/80454212" width="100px;" alt="hyc0812"/>
       </a>
@@ -195,6 +202,8 @@ contract Profile {
       <br />
       <a href="https://github.com/Amarjit-ph">Amarjit Pheiroijam</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/OxygenXXX">
         <img src="https://avatars2.githubusercontent.com/u/82214314" width="100px;" alt="OxygenXXX"/>
@@ -202,8 +211,6 @@ contract Profile {
       <br />
       <a href="https://github.com/OxygenXXX">Haruka Nakano</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/felpfsf">
         <img src="https://avatars2.githubusercontent.com/u/2619027" width="100px;" alt="felpfsf"/>
@@ -245,13 +252,6 @@ contract Profile {
       </a>
       <br />
       <a href="https://github.com/blacky-yg">Hamidou TESSILIMI</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/369gtech">
-        <img src="https://avatars2.githubusercontent.com/u/73673561" width="100px;" alt="369gtech"/>
-      </a>
-      <br />
-      <a href="https://github.com/369gtech">Steven Mcleod</a>
     </td>
   </tr>
 </table>
