@@ -161,6 +161,13 @@ contract Profile {
       <a href="https://github.com/hyc0812">Yongchang He</a>
     </td>
     <td align="center">
+      <a href="https://github.com/christiancalara">
+        <img src="https://avatars2.githubusercontent.com/u/94495956" width="100px;" alt="christiancalara"/>
+      </a>
+      <br />
+      <a href="https://github.com/christiancalara">christiancalara</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/Bornunique911">
         <img src="https://avatars2.githubusercontent.com/u/69379200" width="100px;" alt="Bornunique911"/>
       </a>
@@ -195,6 +202,8 @@ contract Profile {
       <br />
       <a href="https://github.com/Amarjit-ph">Amarjit Pheiroijam</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/OxygenXXX">
         <img src="https://avatars2.githubusercontent.com/u/82214314" width="100px;" alt="OxygenXXX"/>
@@ -202,8 +211,6 @@ contract Profile {
       <br />
       <a href="https://github.com/OxygenXXX">Haruka Nakano</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/felpfsf">
         <img src="https://avatars2.githubusercontent.com/u/2619027" width="100px;" alt="felpfsf"/>
@@ -219,18 +226,18 @@ contract Profile {
       <a href="https://github.com/bglamadrid">Benjamin La Madrid</a>
     </td>
     <td align="center">
-      <a href="https://github.com/blacky-yg">
-        <img src="https://avatars2.githubusercontent.com/u/49866160" width="100px;" alt="blacky-yg"/>
-      </a>
-      <br />
-      <a href="https://github.com/blacky-yg">Hamidou TESSILIMI</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/pierrete">
         <img src="https://avatars2.githubusercontent.com/u/97007642" width="100px;" alt="pierrete"/>
       </a>
       <br />
       <a href="https://github.com/pierrete">Pamela Rod</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/blacky-yg">
+        <img src="https://avatars2.githubusercontent.com/u/49866160" width="100px;" alt="blacky-yg"/>
+      </a>
+      <br />
+      <a href="https://github.com/blacky-yg">Hamidou TESSILIMI</a>
     </td>
     <td align="center">
       <a href="https://github.com/marioarl">
@@ -245,13 +252,6 @@ contract Profile {
       </a>
       <br />
       <a href="https://github.com/fromgopi">Gopi Krishna M</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/peng1027">
-        <img src="https://avatars2.githubusercontent.com/u/20227510" width="100px;" alt="peng1027"/>
-      </a>
-      <br />
-      <a href="https://github.com/peng1027">peng1027</a>
     </td>
   </tr>
 </table>
