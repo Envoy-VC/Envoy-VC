@@ -240,18 +240,18 @@ contract Profile {
       <a href="https://github.com/blacky-yg">Hamidou TESSILIMI</a>
     </td>
     <td align="center">
+      <a href="https://github.com/peng1027">
+        <img src="https://avatars2.githubusercontent.com/u/20227510" width="100px;" alt="peng1027"/>
+      </a>
+      <br />
+      <a href="https://github.com/peng1027">peng1027</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/marioarl">
         <img src="https://avatars2.githubusercontent.com/u/81307784" width="100px;" alt="marioarl"/>
       </a>
       <br />
       <a href="https://github.com/marioarl">Mario Augusto Lima</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/fromgopi">
-        <img src="https://avatars2.githubusercontent.com/u/22764510" width="100px;" alt="fromgopi"/>
-      </a>
-      <br />
-      <a href="https://github.com/fromgopi">Gopi Krishna M</a>
     </td>
   </tr>
 </table>
