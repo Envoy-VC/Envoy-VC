@@ -154,6 +154,13 @@ contract Profile {
 <table>
   <tr>
     <td align="center">
+      <a href="https://github.com/gylidian">
+        <img src="https://avatars2.githubusercontent.com/u/30214981" width="100px;" alt="gylidian"/>
+      </a>
+      <br />
+      <a href="https://github.com/gylidian">锂电</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/hyc0812">
         <img src="https://avatars2.githubusercontent.com/u/80454212" width="100px;" alt="hyc0812"/>
       </a>
@@ -195,6 +202,8 @@ contract Profile {
       <br />
       <a href="https://github.com/JohnyXu">JohnyXu</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/Amarjit-ph">
         <img src="https://avatars2.githubusercontent.com/u/28795297" width="100px;" alt="Amarjit-ph"/>
@@ -202,8 +211,6 @@ contract Profile {
       <br />
       <a href="https://github.com/Amarjit-ph">Amarjit Pheiroijam</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/felpfsf">
         <img src="https://avatars2.githubusercontent.com/u/2619027" width="100px;" alt="felpfsf"/>
@@ -245,13 +252,6 @@ contract Profile {
       </a>
       <br />
       <a href="https://github.com/peng1027">peng1027</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/marioarl">
-        <img src="https://avatars2.githubusercontent.com/u/81307784" width="100px;" alt="marioarl"/>
-      </a>
-      <br />
-      <a href="https://github.com/marioarl">Mario Augusto Lima</a>
     </td>
   </tr>
 </table>
