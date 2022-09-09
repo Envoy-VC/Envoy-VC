@@ -205,18 +205,18 @@ contract Profile {
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/Amarjit-ph">
-        <img src="https://avatars2.githubusercontent.com/u/28795297" width="100px;" alt="Amarjit-ph"/>
-      </a>
-      <br />
-      <a href="https://github.com/Amarjit-ph">Amarjit Pheiroijam</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/felpfsf">
         <img src="https://avatars2.githubusercontent.com/u/2619027" width="100px;" alt="felpfsf"/>
       </a>
       <br />
       <a href="https://github.com/felpfsf">Felipe F.</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Amarjit-ph">
+        <img src="https://avatars2.githubusercontent.com/u/28795297" width="100px;" alt="Amarjit-ph"/>
+      </a>
+      <br />
+      <a href="https://github.com/Amarjit-ph">Amarjit Pheiroijam</a>
     </td>
     <td align="center">
       <a href="https://github.com/OxygenXXX">
@@ -240,18 +240,18 @@ contract Profile {
       <a href="https://github.com/pierrete">Pamela Rod</a>
     </td>
     <td align="center">
-      <a href="https://github.com/blacky-yg">
-        <img src="https://avatars2.githubusercontent.com/u/49866160" width="100px;" alt="blacky-yg"/>
-      </a>
-      <br />
-      <a href="https://github.com/blacky-yg">Hamidou TESSILIMI</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/peng1027">
         <img src="https://avatars2.githubusercontent.com/u/20227510" width="100px;" alt="peng1027"/>
       </a>
       <br />
       <a href="https://github.com/peng1027">peng1027</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/blacky-yg">
+        <img src="https://avatars2.githubusercontent.com/u/49866160" width="100px;" alt="blacky-yg"/>
+      </a>
+      <br />
+      <a href="https://github.com/blacky-yg">Hamidou TESSILIMI</a>
     </td>
   </tr>
 </table>
