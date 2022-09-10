@@ -196,20 +196,20 @@ contract Profile {
       <a href="https://github.com/kenkirito">lakshya</a>
     </td>
     <td align="center">
-      <a href="https://github.com/JohnyXu">
-        <img src="https://avatars2.githubusercontent.com/u/5744673" width="100px;" alt="JohnyXu"/>
-      </a>
-      <br />
-      <a href="https://github.com/JohnyXu">JohnyXu</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/felpfsf">
         <img src="https://avatars2.githubusercontent.com/u/2619027" width="100px;" alt="felpfsf"/>
       </a>
       <br />
       <a href="https://github.com/felpfsf">Felipe F.</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/JohnyXu">
+        <img src="https://avatars2.githubusercontent.com/u/5744673" width="100px;" alt="JohnyXu"/>
+      </a>
+      <br />
+      <a href="https://github.com/JohnyXu">JohnyXu</a>
     </td>
     <td align="center">
       <a href="https://github.com/Amarjit-ph">
