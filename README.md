@@ -205,18 +205,18 @@ contract Profile {
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/JohnyXu">
-        <img src="https://avatars2.githubusercontent.com/u/5744673" width="100px;" alt="JohnyXu"/>
-      </a>
-      <br />
-      <a href="https://github.com/JohnyXu">JohnyXu</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Amarjit-ph">
         <img src="https://avatars2.githubusercontent.com/u/28795297" width="100px;" alt="Amarjit-ph"/>
       </a>
       <br />
       <a href="https://github.com/Amarjit-ph">Amarjit Pheiroijam</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/JohnyXu">
+        <img src="https://avatars2.githubusercontent.com/u/5744673" width="100px;" alt="JohnyXu"/>
+      </a>
+      <br />
+      <a href="https://github.com/JohnyXu">JohnyXu</a>
     </td>
     <td align="center">
       <a href="https://github.com/OxygenXXX">
