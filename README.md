@@ -226,18 +226,18 @@ contract Profile {
       <a href="https://github.com/OxygenXXX">Haruka Nakano</a>
     </td>
     <td align="center">
-      <a href="https://github.com/bglamadrid">
-        <img src="https://avatars2.githubusercontent.com/u/68207359" width="100px;" alt="bglamadrid"/>
-      </a>
-      <br />
-      <a href="https://github.com/bglamadrid">Benjamin La Madrid</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/peng1027">
         <img src="https://avatars2.githubusercontent.com/u/20227510" width="100px;" alt="peng1027"/>
       </a>
       <br />
       <a href="https://github.com/peng1027">peng1027</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/bglamadrid">
+        <img src="https://avatars2.githubusercontent.com/u/68207359" width="100px;" alt="bglamadrid"/>
+      </a>
+      <br />
+      <a href="https://github.com/bglamadrid">Benjamin La Madrid</a>
     </td>
     <td align="center">
       <a href="https://github.com/pierrete">
