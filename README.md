@@ -247,11 +247,11 @@ contract Profile {
       <a href="https://github.com/pierrete">Pamela Rod</a>
     </td>
     <td align="center">
-      <a href="https://github.com/blacky-yg">
-        <img src="https://avatars2.githubusercontent.com/u/49866160" width="100px;" alt="blacky-yg"/>
+      <a href="https://github.com/Zorono">
+        <img src="https://avatars2.githubusercontent.com/u/19735243" width="100px;" alt="Zorono"/>
       </a>
       <br />
-      <a href="https://github.com/blacky-yg">Hamidou TESSILIMI</a>
+      <a href="https://github.com/Zorono">[BR]John_Magdy</a>
     </td>
   </tr>
 </table>
