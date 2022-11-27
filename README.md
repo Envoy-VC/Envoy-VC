@@ -8,7 +8,7 @@
 <a href="https://app.daily.dev/Envoy_"><img align="right" src="https://api.daily.dev/devcards/54371a309e0a49fdbb18b238d19f6ac9.png?r=kas" width="200" alt="Vedant Chainani's Dev Card"/></a>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=Blockchain+Enthusiast!;Currently+Learning+Solidity"alt="Currently Learning Solidity">
+<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=Web3+Technical+Writer+✍️;⛓️+Blockchain+Enthusiast"alt="Currently Learning Solidity">
 </p>
 
 
@@ -175,18 +175,18 @@ contract Profile {
       <a href="https://github.com/christiancalara">christiancalara</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Bornunique911">
-        <img src="https://avatars2.githubusercontent.com/u/69379200" width="100px;" alt="Bornunique911"/>
-      </a>
-      <br />
-      <a href="https://github.com/Bornunique911">Bornunique911</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/felpfsf">
         <img src="https://avatars2.githubusercontent.com/u/2619027" width="100px;" alt="felpfsf"/>
       </a>
       <br />
       <a href="https://github.com/felpfsf">Felipe F.</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Bornunique911">
+        <img src="https://avatars2.githubusercontent.com/u/69379200" width="100px;" alt="Bornunique911"/>
+      </a>
+      <br />
+      <a href="https://github.com/Bornunique911">Bornunique911</a>
     </td>
     <td align="center">
       <a href="https://github.com/Dev-HideyukiTakahashi">
