@@ -168,18 +168,18 @@ contract Profile {
       <a href="https://github.com/hyc0812">Yongchang He</a>
     </td>
     <td align="center">
-      <a href="https://github.com/christiancalara">
-        <img src="https://avatars2.githubusercontent.com/u/94495956" width="100px;" alt="christiancalara"/>
-      </a>
-      <br />
-      <a href="https://github.com/christiancalara">christiancalara</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/felpfsf">
         <img src="https://avatars2.githubusercontent.com/u/2619027" width="100px;" alt="felpfsf"/>
       </a>
       <br />
       <a href="https://github.com/felpfsf">Felipe F.</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/christiancalara">
+        <img src="https://avatars2.githubusercontent.com/u/94495956" width="100px;" alt="christiancalara"/>
+      </a>
+      <br />
+      <a href="https://github.com/christiancalara">christiancalara</a>
     </td>
     <td align="center">
       <a href="https://github.com/Bornunique911">
@@ -189,18 +189,18 @@ contract Profile {
       <a href="https://github.com/Bornunique911">Bornunique911</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Dev-HideyukiTakahashi">
-        <img src="https://avatars2.githubusercontent.com/u/76458498" width="100px;" alt="Dev-HideyukiTakahashi"/>
-      </a>
-      <br />
-      <a href="https://github.com/Dev-HideyukiTakahashi">Hideyuki Takahashi</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Amarjit-ph">
         <img src="https://avatars2.githubusercontent.com/u/28795297" width="100px;" alt="Amarjit-ph"/>
       </a>
       <br />
       <a href="https://github.com/Amarjit-ph">Amarjit Pheiroijam</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Dev-HideyukiTakahashi">
+        <img src="https://avatars2.githubusercontent.com/u/76458498" width="100px;" alt="Dev-HideyukiTakahashi"/>
+      </a>
+      <br />
+      <a href="https://github.com/Dev-HideyukiTakahashi">Hideyuki Takahashi</a>
     </td>
   </tr>
   <tr>
