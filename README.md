@@ -240,18 +240,18 @@ contract Profile {
       <a href="https://github.com/pierrete">Pamela Rod</a>
     </td>
     <td align="center">
-      <a href="https://github.com/bglamadrid">
-        <img src="https://avatars2.githubusercontent.com/u/68207359" width="100px;" alt="bglamadrid"/>
-      </a>
-      <br />
-      <a href="https://github.com/bglamadrid">Benjamin La Madrid</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Zorono">
         <img src="https://avatars2.githubusercontent.com/u/19735243" width="100px;" alt="Zorono"/>
       </a>
       <br />
       <a href="https://github.com/Zorono">[BR]John_Magdy</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/bglamadrid">
+        <img src="https://avatars2.githubusercontent.com/u/68207359" width="100px;" alt="bglamadrid"/>
+      </a>
+      <br />
+      <a href="https://github.com/bglamadrid">Benjamin La Madrid</a>
     </td>
   </tr>
 </table>
