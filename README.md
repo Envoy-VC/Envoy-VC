@@ -154,6 +154,13 @@ contract Profile {
 <table>
   <tr>
     <td align="center">
+      <a href="https://github.com/BEPb">
+        <img src="https://avatars2.githubusercontent.com/u/57312267" width="100px;" alt="BEPb"/>
+      </a>
+      <br />
+      <a href="https://github.com/BEPb">Andrej Marinchenko</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/TenviLi">
         <img src="https://avatars2.githubusercontent.com/u/30214981" width="100px;" alt="TenviLi"/>
       </a>
@@ -195,6 +202,8 @@ contract Profile {
       <br />
       <a href="https://github.com/Amarjit-ph">Amarjit Pheiroijam</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/Dev-HideyukiTakahashi">
         <img src="https://avatars2.githubusercontent.com/u/76458498" width="100px;" alt="Dev-HideyukiTakahashi"/>
@@ -202,8 +211,6 @@ contract Profile {
       <br />
       <a href="https://github.com/Dev-HideyukiTakahashi">Hideyuki Takahashi</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/kenkirito">
         <img src="https://avatars2.githubusercontent.com/u/68530218" width="100px;" alt="kenkirito"/>
@@ -245,13 +252,6 @@ contract Profile {
       </a>
       <br />
       <a href="https://github.com/Zorono">[BR]John_Magdy</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/bglamadrid">
-        <img src="https://avatars2.githubusercontent.com/u/68207359" width="100px;" alt="bglamadrid"/>
-      </a>
-      <br />
-      <a href="https://github.com/bglamadrid">Benjamin La Madrid</a>
     </td>
   </tr>
 </table>
