@@ -175,18 +175,18 @@ contract Profile {
       <a href="https://github.com/felpfsf">Felipe F.</a>
     </td>
     <td align="center">
-      <a href="https://github.com/christiancalara">
-        <img src="https://avatars2.githubusercontent.com/u/94495956" width="100px;" alt="christiancalara"/>
-      </a>
-      <br />
-      <a href="https://github.com/christiancalara">christiancalara</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Bornunique911">
         <img src="https://avatars2.githubusercontent.com/u/69379200" width="100px;" alt="Bornunique911"/>
       </a>
       <br />
       <a href="https://github.com/Bornunique911">Bornunique911</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/christiancalara">
+        <img src="https://avatars2.githubusercontent.com/u/94495956" width="100px;" alt="christiancalara"/>
+      </a>
+      <br />
+      <a href="https://github.com/christiancalara">christiancalara</a>
     </td>
     <td align="center">
       <a href="https://github.com/Amarjit-ph">
@@ -244,7 +244,7 @@ contract Profile {
         <img src="https://avatars2.githubusercontent.com/u/19735243" width="100px;" alt="Zorono"/>
       </a>
       <br />
-      <a href="https://github.com/Zorono">[BR]John_Magdy</a>
+      <a href="https://github.com/Zorono">John Magdy Lotfy Kamel</a>
     </td>
     <td align="center">
       <a href="https://github.com/bglamadrid">
