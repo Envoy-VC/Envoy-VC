@@ -219,18 +219,18 @@ contract Profile {
       <a href="https://github.com/JohnyXu">JohnyXu</a>
     </td>
     <td align="center">
-      <a href="https://github.com/OxygenXXX">
-        <img src="https://avatars2.githubusercontent.com/u/82214314" width="100px;" alt="OxygenXXX"/>
-      </a>
-      <br />
-      <a href="https://github.com/OxygenXXX">Haruka Nakano</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/peng1027">
         <img src="https://avatars2.githubusercontent.com/u/20227510" width="100px;" alt="peng1027"/>
       </a>
       <br />
       <a href="https://github.com/peng1027">peng1027</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/OxygenXXX">
+        <img src="https://avatars2.githubusercontent.com/u/82214314" width="100px;" alt="OxygenXXX"/>
+      </a>
+      <br />
+      <a href="https://github.com/OxygenXXX">Haruka Nakano</a>
     </td>
     <td align="center">
       <a href="https://github.com/pierrete">
