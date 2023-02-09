@@ -247,11 +247,11 @@ contract Profile {
       <a href="https://github.com/pierrete">Pamela Rod</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Majumder99">
-        <img src="https://avatars2.githubusercontent.com/u/96306119" width="100px;" alt="Majumder99"/>
+      <a href="https://github.com/bglamadrid">
+        <img src="https://avatars2.githubusercontent.com/u/68207359" width="100px;" alt="bglamadrid"/>
       </a>
       <br />
-      <a href="https://github.com/Majumder99">Sourav Majumder</a>
+      <a href="https://github.com/bglamadrid">Benjamin La Madrid</a>
     </td>
   </tr>
 </table>
