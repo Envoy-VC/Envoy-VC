@@ -216,7 +216,7 @@ contract Profile {
         <img src="https://avatars2.githubusercontent.com/u/5744673" width="100px;" alt="JohnyXu"/>
       </a>
       <br />
-      <a href="https://github.com/JohnyXu">JohnyXu</a>
+      <a href="https://github.com/JohnyXu">Johny Xu</a>
     </td>
     <td align="center">
       <a href="https://github.com/peng1027">
