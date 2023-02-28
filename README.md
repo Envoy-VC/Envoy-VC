@@ -233,18 +233,18 @@ contract Profile {
       <a href="https://github.com/OxygenXXX">Haruka Nakano</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Zorono">
-        <img src="https://avatars2.githubusercontent.com/u/19735243" width="100px;" alt="Zorono"/>
-      </a>
-      <br />
-      <a href="https://github.com/Zorono">John Magdy Lotfy Kamel</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/pierrete">
         <img src="https://avatars2.githubusercontent.com/u/97007642" width="100px;" alt="pierrete"/>
       </a>
       <br />
       <a href="https://github.com/pierrete">Pamela Rod</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Zorono">
+        <img src="https://avatars2.githubusercontent.com/u/19735243" width="100px;" alt="Zorono"/>
+      </a>
+      <br />
+      <a href="https://github.com/Zorono">John Magdy Lotfy Kamel</a>
     </td>
     <td align="center">
       <a href="https://github.com/Majumder99">
