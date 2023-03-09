@@ -168,13 +168,6 @@ contract Profile {
       <a href="https://github.com/hyc0812">Yongchang He</a>
     </td>
     <td align="center">
-      <a href="https://github.com/ninja-1337">
-        <img src="https://avatars2.githubusercontent.com/u/23196956" width="100px;" alt="ninja-1337"/>
-      </a>
-      <br />
-      <a href="https://github.com/ninja-1337">Ninja</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/felpfsf">
         <img src="https://avatars2.githubusercontent.com/u/2619027" width="100px;" alt="felpfsf"/>
       </a>
@@ -202,8 +195,6 @@ contract Profile {
       <br />
       <a href="https://github.com/Amarjit-ph">Amarjit Pheiroijam</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/Dev-HideyukiTakahashi">
         <img src="https://avatars2.githubusercontent.com/u/76458498" width="100px;" alt="Dev-HideyukiTakahashi"/>
@@ -211,6 +202,8 @@ contract Profile {
       <br />
       <a href="https://github.com/Dev-HideyukiTakahashi">Hideyuki Takahashi</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/kenkirito">
         <img src="https://avatars2.githubusercontent.com/u/68530218" width="100px;" alt="kenkirito"/>
@@ -252,6 +245,13 @@ contract Profile {
       </a>
       <br />
       <a href="https://github.com/Zorono">John Magdy Lotfy Kamel</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/369gtech">
+        <img src="https://avatars2.githubusercontent.com/u/73673561" width="100px;" alt="369gtech"/>
+      </a>
+      <br />
+      <a href="https://github.com/369gtech">Steven Mcleod</a>
     </td>
   </tr>
 </table>
