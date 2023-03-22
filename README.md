@@ -247,11 +247,11 @@ contract Profile {
       <a href="https://github.com/Zorono">John Magdy Lotfy Kamel</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Majumder99">
-        <img src="https://avatars2.githubusercontent.com/u/96306119" width="100px;" alt="Majumder99"/>
+      <a href="https://github.com/369gtech">
+        <img src="https://avatars2.githubusercontent.com/u/73673561" width="100px;" alt="369gtech"/>
       </a>
       <br />
-      <a href="https://github.com/Majumder99">Sourav Majumder</a>
+      <a href="https://github.com/369gtech">Steven Mcleod</a>
     </td>
   </tr>
 </table>
