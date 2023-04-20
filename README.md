@@ -182,18 +182,18 @@ contract Profile {
       <a href="https://github.com/Bornunique911">Bornunique911</a>
     </td>
     <td align="center">
-      <a href="https://github.com/christiancalara">
-        <img src="https://avatars2.githubusercontent.com/u/94495956" width="100px;" alt="christiancalara"/>
-      </a>
-      <br />
-      <a href="https://github.com/christiancalara">christiancalara</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Amarjit-ph">
         <img src="https://avatars2.githubusercontent.com/u/28795297" width="100px;" alt="Amarjit-ph"/>
       </a>
       <br />
       <a href="https://github.com/Amarjit-ph">Amarjit Pheiroijam</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/christiancalara">
+        <img src="https://avatars2.githubusercontent.com/u/94495956" width="100px;" alt="christiancalara"/>
+      </a>
+      <br />
+      <a href="https://github.com/christiancalara">christiancalara</a>
     </td>
     <td align="center">
       <a href="https://github.com/Dev-HideyukiTakahashi">
@@ -219,18 +219,18 @@ contract Profile {
       <a href="https://github.com/JohnyXu">Johny Xu</a>
     </td>
     <td align="center">
-      <a href="https://github.com/pierrete">
-        <img src="https://avatars2.githubusercontent.com/u/97007642" width="100px;" alt="pierrete"/>
-      </a>
-      <br />
-      <a href="https://github.com/pierrete">Pamela Rod</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/peng1027">
         <img src="https://avatars2.githubusercontent.com/u/20227510" width="100px;" alt="peng1027"/>
       </a>
       <br />
       <a href="https://github.com/peng1027">peng1027</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/pierrete">
+        <img src="https://avatars2.githubusercontent.com/u/97007642" width="100px;" alt="pierrete"/>
+      </a>
+      <br />
+      <a href="https://github.com/pierrete">Pamela Rod</a>
     </td>
     <td align="center">
       <a href="https://github.com/OxygenXXX">
