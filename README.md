@@ -233,6 +233,13 @@ contract Profile {
       <a href="https://github.com/peng1027">peng1027</a>
     </td>
     <td align="center">
+      <a href="https://github.com/petermartens98">
+        <img src="https://avatars2.githubusercontent.com/u/87671757" width="100px;" alt="petermartens98"/>
+      </a>
+      <br />
+      <a href="https://github.com/petermartens98">Peter Martens</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/OxygenXXX">
         <img src="https://avatars2.githubusercontent.com/u/82214314" width="100px;" alt="OxygenXXX"/>
       </a>
@@ -245,13 +252,6 @@ contract Profile {
       </a>
       <br />
       <a href="https://github.com/Zorono">John Magdy Lotfy Kamel</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Majumder99">
-        <img src="https://avatars2.githubusercontent.com/u/96306119" width="100px;" alt="Majumder99"/>
-      </a>
-      <br />
-      <a href="https://github.com/Majumder99">Sourav Majumder</a>
     </td>
   </tr>
 </table>
