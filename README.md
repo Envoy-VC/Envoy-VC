@@ -175,18 +175,18 @@ contract Profile {
       <a href="https://github.com/felpfsf">Felipe F.</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Bornunique911">
-        <img src="https://avatars2.githubusercontent.com/u/69379200" width="100px;" alt="Bornunique911"/>
-      </a>
-      <br />
-      <a href="https://github.com/Bornunique911">Bornunique911</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Amarjit-ph">
         <img src="https://avatars2.githubusercontent.com/u/28795297" width="100px;" alt="Amarjit-ph"/>
       </a>
       <br />
       <a href="https://github.com/Amarjit-ph">Amarjit Pheiroijam</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Bornunique911">
+        <img src="https://avatars2.githubusercontent.com/u/69379200" width="100px;" alt="Bornunique911"/>
+      </a>
+      <br />
+      <a href="https://github.com/Bornunique911">Bornunique911</a>
     </td>
     <td align="center">
       <a href="https://github.com/christiancalara">
@@ -204,6 +204,13 @@ contract Profile {
     </td>
   </tr>
   <tr>
+    <td align="center">
+      <a href="https://github.com/petermartens98">
+        <img src="https://avatars2.githubusercontent.com/u/87671757" width="100px;" alt="petermartens98"/>
+      </a>
+      <br />
+      <a href="https://github.com/petermartens98">Peter Martens</a>
+    </td>
     <td align="center">
       <a href="https://github.com/kenkirito">
         <img src="https://avatars2.githubusercontent.com/u/68530218" width="100px;" alt="kenkirito"/>
@@ -233,11 +240,11 @@ contract Profile {
       <a href="https://github.com/peng1027">peng1027</a>
     </td>
     <td align="center">
-      <a href="https://github.com/petermartens98">
-        <img src="https://avatars2.githubusercontent.com/u/87671757" width="100px;" alt="petermartens98"/>
+      <a href="https://github.com/Zorono">
+        <img src="https://avatars2.githubusercontent.com/u/19735243" width="100px;" alt="Zorono"/>
       </a>
       <br />
-      <a href="https://github.com/petermartens98">Peter Martens</a>
+      <a href="https://github.com/Zorono">John Magdy Lotfy Kamel</a>
     </td>
     <td align="center">
       <a href="https://github.com/OxygenXXX">
@@ -245,13 +252,6 @@ contract Profile {
       </a>
       <br />
       <a href="https://github.com/OxygenXXX">Haruka Nakano</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Zorono">
-        <img src="https://avatars2.githubusercontent.com/u/19735243" width="100px;" alt="Zorono"/>
-      </a>
-      <br />
-      <a href="https://github.com/Zorono">John Magdy Lotfy Kamel</a>
     </td>
   </tr>
 </table>
