@@ -240,18 +240,18 @@ contract Profile {
       <a href="https://github.com/peng1027">peng1027</a>
     </td>
     <td align="center">
+      <a href="https://github.com/SmartDev0910">
+        <img src="https://avatars2.githubusercontent.com/u/124351851" width="100px;" alt="SmartDev0910"/>
+      </a>
+      <br />
+      <a href="https://github.com/SmartDev0910">SmartDev0910</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/Zorono">
         <img src="https://avatars2.githubusercontent.com/u/19735243" width="100px;" alt="Zorono"/>
       </a>
       <br />
       <a href="https://github.com/Zorono">John Magdy Lotfy Kamel</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/OxygenXXX">
-        <img src="https://avatars2.githubusercontent.com/u/82214314" width="100px;" alt="OxygenXXX"/>
-      </a>
-      <br />
-      <a href="https://github.com/OxygenXXX">Haruka Nakano</a>
     </td>
   </tr>
 </table>
