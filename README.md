@@ -189,18 +189,18 @@ contract Profile {
       <a href="https://github.com/Bornunique911">Bornunique911</a>
     </td>
     <td align="center">
-      <a href="https://github.com/christiancalara">
-        <img src="https://avatars2.githubusercontent.com/u/94495956" width="100px;" alt="christiancalara"/>
-      </a>
-      <br />
-      <a href="https://github.com/christiancalara">christiancalara</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/petermartens98">
         <img src="https://avatars2.githubusercontent.com/u/87671757" width="100px;" alt="petermartens98"/>
       </a>
       <br />
       <a href="https://github.com/petermartens98">Peter Martens</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/christiancalara">
+        <img src="https://avatars2.githubusercontent.com/u/94495956" width="100px;" alt="christiancalara"/>
+      </a>
+      <br />
+      <a href="https://github.com/christiancalara">christiancalara</a>
     </td>
   </tr>
   <tr>
