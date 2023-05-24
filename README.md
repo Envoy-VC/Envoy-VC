@@ -233,18 +233,18 @@ contract Profile {
       <a href="https://github.com/kenkirito">lakshya</a>
     </td>
     <td align="center">
-      <a href="https://github.com/JohnyXu">
-        <img src="https://avatars2.githubusercontent.com/u/5744673" width="100px;" alt="JohnyXu"/>
-      </a>
-      <br />
-      <a href="https://github.com/JohnyXu">Johny Xu</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Zorono">
         <img src="https://avatars2.githubusercontent.com/u/19735243" width="100px;" alt="Zorono"/>
       </a>
       <br />
       <a href="https://github.com/Zorono">John Magdy Lotfy Kamel</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/JohnyXu">
+        <img src="https://avatars2.githubusercontent.com/u/5744673" width="100px;" alt="JohnyXu"/>
+      </a>
+      <br />
+      <a href="https://github.com/JohnyXu">Johny Xu</a>
     </td>
     <td align="center">
       <a href="https://github.com/peng1027">
