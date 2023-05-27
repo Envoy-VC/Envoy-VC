@@ -175,18 +175,18 @@ contract Profile {
       <a href="https://github.com/felpfsf">Felipe F.</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Amarjit-ph">
-        <img src="https://avatars2.githubusercontent.com/u/28795297" width="100px;" alt="Amarjit-ph"/>
-      </a>
-      <br />
-      <a href="https://github.com/Amarjit-ph">Amarjit Pheiroijam</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/petermartens98">
         <img src="https://avatars2.githubusercontent.com/u/87671757" width="100px;" alt="petermartens98"/>
       </a>
       <br />
       <a href="https://github.com/petermartens98">Peter Martens</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Amarjit-ph">
+        <img src="https://avatars2.githubusercontent.com/u/28795297" width="100px;" alt="Amarjit-ph"/>
+      </a>
+      <br />
+      <a href="https://github.com/Amarjit-ph">Amarjit Pheiroijam</a>
     </td>
     <td align="center">
       <a href="https://github.com/Bornunique911">
