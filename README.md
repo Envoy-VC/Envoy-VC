@@ -196,20 +196,20 @@ contract Profile {
       <a href="https://github.com/Bornunique911">Bornunique911</a>
     </td>
     <td align="center">
-      <a href="https://github.com/christiancalara">
-        <img src="https://avatars2.githubusercontent.com/u/94495956" width="100px;" alt="christiancalara"/>
-      </a>
-      <br />
-      <a href="https://github.com/christiancalara">christiancalara</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/SmartDev0910">
         <img src="https://avatars2.githubusercontent.com/u/124351851" width="100px;" alt="SmartDev0910"/>
       </a>
       <br />
       <a href="https://github.com/SmartDev0910">SmartDev0910</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/christiancalara">
+        <img src="https://avatars2.githubusercontent.com/u/94495956" width="100px;" alt="christiancalara"/>
+      </a>
+      <br />
+      <a href="https://github.com/christiancalara">christiancalara</a>
     </td>
     <td align="center">
       <a href="https://github.com/Dev-HideyukiTakahashi">
