@@ -189,18 +189,18 @@ contract Profile {
       <a href="https://github.com/Amarjit-ph">Amarjit Pheiroijam</a>
     </td>
     <td align="center">
-      <a href="https://github.com/SmartDev0910">
-        <img src="https://avatars2.githubusercontent.com/u/124351851" width="100px;" alt="SmartDev0910"/>
-      </a>
-      <br />
-      <a href="https://github.com/SmartDev0910">SmartDev0910</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Bornunique911">
         <img src="https://avatars2.githubusercontent.com/u/69379200" width="100px;" alt="Bornunique911"/>
       </a>
       <br />
       <a href="https://github.com/Bornunique911">Bornunique911</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/SmartDev0910">
+        <img src="https://avatars2.githubusercontent.com/u/124351851" width="100px;" alt="SmartDev0910"/>
+      </a>
+      <br />
+      <a href="https://github.com/SmartDev0910">SmartDev0910</a>
     </td>
   </tr>
   <tr>
