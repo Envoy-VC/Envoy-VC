@@ -196,20 +196,20 @@ contract Profile {
       <a href="https://github.com/Amarjit-ph">Amarjit Pheiroijam</a>
     </td>
     <td align="center">
-      <a href="https://github.com/SmartDev0910">
-        <img src="https://avatars2.githubusercontent.com/u/124351851" width="100px;" alt="SmartDev0910"/>
-      </a>
-      <br />
-      <a href="https://github.com/SmartDev0910">SmartDev0910</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/Bornunique911">
         <img src="https://avatars2.githubusercontent.com/u/69379200" width="100px;" alt="Bornunique911"/>
       </a>
       <br />
       <a href="https://github.com/Bornunique911">Bornunique911</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/SmartDev0910">
+        <img src="https://avatars2.githubusercontent.com/u/124351851" width="100px;" alt="SmartDev0910"/>
+      </a>
+      <br />
+      <a href="https://github.com/SmartDev0910">SmartDev0910</a>
     </td>
     <td align="center">
       <a href="https://github.com/christiancalara">
@@ -226,18 +226,18 @@ contract Profile {
       <a href="https://github.com/Dev-HideyukiTakahashi">Hideyuki Takahashi</a>
     </td>
     <td align="center">
-      <a href="https://github.com/pierrete">
-        <img src="https://avatars2.githubusercontent.com/u/97007642" width="100px;" alt="pierrete"/>
-      </a>
-      <br />
-      <a href="https://github.com/pierrete">Pamela Rod</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/kenkirito">
         <img src="https://avatars2.githubusercontent.com/u/68530218" width="100px;" alt="kenkirito"/>
       </a>
       <br />
       <a href="https://github.com/kenkirito">lakshya</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/pierrete">
+        <img src="https://avatars2.githubusercontent.com/u/97007642" width="100px;" alt="pierrete"/>
+      </a>
+      <br />
+      <a href="https://github.com/pierrete">Pamela Rod</a>
     </td>
     <td align="center">
       <a href="https://github.com/JohnyXu">
