@@ -161,18 +161,18 @@ contract Profile {
       <a href="https://github.com/TenviLi">Tenvi</a>
     </td>
     <td align="center">
-      <a href="https://github.com/hyc0812">
-        <img src="https://avatars2.githubusercontent.com/u/80454212" width="100px;" alt="hyc0812"/>
-      </a>
-      <br />
-      <a href="https://github.com/hyc0812">Yongchang He</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Honest0">
         <img src="https://avatars2.githubusercontent.com/u/123926018" width="100px;" alt="Honest0"/>
       </a>
       <br />
       <a href="https://github.com/Honest0">Honest Dev</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/hyc0812">
+        <img src="https://avatars2.githubusercontent.com/u/80454212" width="100px;" alt="hyc0812"/>
+      </a>
+      <br />
+      <a href="https://github.com/hyc0812">Yongchang He</a>
     </td>
     <td align="center">
       <a href="https://github.com/felpfsf">
