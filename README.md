@@ -216,7 +216,7 @@ contract Profile {
         <img src="https://avatars2.githubusercontent.com/u/124351851" width="100px;" alt="SmartDev0910"/>
       </a>
       <br />
-      <a href="https://github.com/SmartDev0910">MattD</a>
+      <a href="https://github.com/SmartDev0910">SmartDev0910</a>
     </td>
     <td align="center">
       <a href="https://github.com/Dev-HideyukiTakahashi">
