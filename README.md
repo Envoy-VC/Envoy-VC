@@ -154,18 +154,18 @@ contract Profile {
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/TenviLi">
-        <img src="https://avatars2.githubusercontent.com/u/30214981" width="100px;" alt="TenviLi"/>
-      </a>
-      <br />
-      <a href="https://github.com/TenviLi">Tenvi</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Honest0">
         <img src="https://avatars2.githubusercontent.com/u/123926018" width="100px;" alt="Honest0"/>
       </a>
       <br />
       <a href="https://github.com/Honest0">Honest Dev</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/TenviLi">
+        <img src="https://avatars2.githubusercontent.com/u/30214981" width="100px;" alt="TenviLi"/>
+      </a>
+      <br />
+      <a href="https://github.com/TenviLi">Tenvi</a>
     </td>
     <td align="center">
       <a href="https://github.com/hyc0812">
@@ -233,6 +233,13 @@ contract Profile {
       <a href="https://github.com/kenkirito">lakshya</a>
     </td>
     <td align="center">
+      <a href="https://github.com/pampzrd">
+        <img src="https://avatars2.githubusercontent.com/u/97007642" width="100px;" alt="pampzrd"/>
+      </a>
+      <br />
+      <a href="https://github.com/pampzrd">Pamela Rod</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/JohnyXu">
         <img src="https://avatars2.githubusercontent.com/u/5744673" width="100px;" alt="JohnyXu"/>
       </a>
@@ -245,13 +252,6 @@ contract Profile {
       </a>
       <br />
       <a href="https://github.com/peng1027">peng1027</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/pampzrd">
-        <img src="https://avatars2.githubusercontent.com/u/97007642" width="100px;" alt="pampzrd"/>
-      </a>
-      <br />
-      <a href="https://github.com/pampzrd">Pamela Rod</a>
     </td>
   </tr>
 </table>
