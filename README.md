@@ -233,13 +233,6 @@ contract Profile {
       <a href="https://github.com/kenkirito">lakshya</a>
     </td>
     <td align="center">
-      <a href="https://github.com/pampzrd">
-        <img src="https://avatars2.githubusercontent.com/u/97007642" width="100px;" alt="pampzrd"/>
-      </a>
-      <br />
-      <a href="https://github.com/pampzrd">Pamela Rod</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/JohnyXu">
         <img src="https://avatars2.githubusercontent.com/u/5744673" width="100px;" alt="JohnyXu"/>
       </a>
@@ -252,6 +245,13 @@ contract Profile {
       </a>
       <br />
       <a href="https://github.com/peng1027">peng1027</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/pampzrd">
+        <img src="https://avatars2.githubusercontent.com/u/97007642" width="100px;" alt="pampzrd"/>
+      </a>
+      <br />
+      <a href="https://github.com/pampzrd">Pamela Rod</a>
     </td>
   </tr>
 </table>
