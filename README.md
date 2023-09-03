@@ -247,11 +247,11 @@ contract Profile {
       <a href="https://github.com/pampzrd">Pamela Rod</a>
     </td>
     <td align="center">
-      <a href="https://github.com/JohnyXu">
-        <img src="https://avatars2.githubusercontent.com/u/5744673" width="100px;" alt="JohnyXu"/>
+      <a href="https://github.com/Zorono">
+        <img src="https://avatars2.githubusercontent.com/u/19735243" width="100px;" alt="Zorono"/>
       </a>
       <br />
-      <a href="https://github.com/JohnyXu">Johny Xu</a>
+      <a href="https://github.com/Zorono">John Magdy Lotfy Kamel</a>
     </td>
   </tr>
 </table>
