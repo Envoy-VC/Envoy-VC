@@ -154,6 +154,13 @@ contract Profile {
 <table>
   <tr>
     <td align="center">
+      <a href="https://github.com/shakiliitju">
+        <img src="https://avatars2.githubusercontent.com/u/84621547" width="100px;" alt="shakiliitju"/>
+      </a>
+      <br />
+      <a href="https://github.com/shakiliitju">Md. Shakil Hossain</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/TenviLi">
         <img src="https://avatars2.githubusercontent.com/u/30214981" width="100px;" alt="TenviLi"/>
       </a>
@@ -195,6 +202,8 @@ contract Profile {
       <br />
       <a href="https://github.com/Bornunique911">Bornunique911</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/christiancalara">
         <img src="https://avatars2.githubusercontent.com/u/94495956" width="100px;" alt="christiancalara"/>
@@ -202,8 +211,6 @@ contract Profile {
       <br />
       <a href="https://github.com/christiancalara">christiancalara</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/SmartDev0910">
         <img src="https://avatars2.githubusercontent.com/u/124351851" width="100px;" alt="SmartDev0910"/>
@@ -245,13 +252,6 @@ contract Profile {
       </a>
       <br />
       <a href="https://github.com/peng1027">peng1027</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/virajkulkarni14">
-        <img src="https://avatars2.githubusercontent.com/u/1186610" width="100px;" alt="virajkulkarni14"/>
-      </a>
-      <br />
-      <a href="https://github.com/virajkulkarni14">Viraj G. Kulkarni (विराज गु. कुलकर्णी)</a>
     </td>
   </tr>
 </table>
