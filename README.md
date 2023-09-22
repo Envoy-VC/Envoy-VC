@@ -226,6 +226,13 @@ contract Profile {
       <a href="https://github.com/Dev-HideyukiTakahashi">Hideyuki Takahashi</a>
     </td>
     <td align="center">
+      <a href="https://github.com/Zorono">
+        <img src="https://avatars2.githubusercontent.com/u/19735243" width="100px;" alt="Zorono"/>
+      </a>
+      <br />
+      <a href="https://github.com/Zorono">John Magdy Lotfy Kamel</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/kenkirito">
         <img src="https://avatars2.githubusercontent.com/u/68530218" width="100px;" alt="kenkirito"/>
       </a>
@@ -238,13 +245,6 @@ contract Profile {
       </a>
       <br />
       <a href="https://github.com/pampzrd">Pamela Rod</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Zorono">
-        <img src="https://avatars2.githubusercontent.com/u/19735243" width="100px;" alt="Zorono"/>
-      </a>
-      <br />
-      <a href="https://github.com/Zorono">John Magdy Lotfy Kamel</a>
     </td>
     <td align="center">
       <a href="https://github.com/peng1027">
