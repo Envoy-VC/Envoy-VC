@@ -216,7 +216,7 @@ contract Profile {
         <img src="https://avatars2.githubusercontent.com/u/124351851" width="100px;" alt="SmartDev0910"/>
       </a>
       <br />
-      <a href="https://github.com/SmartDev0910">SmartDev0910</a>
+      <a href="https://github.com/SmartDev0910">Smart Dev</a>
     </td>
     <td align="center">
       <a href="https://github.com/Zorono">
@@ -240,18 +240,18 @@ contract Profile {
       <a href="https://github.com/kenkirito">lakshya</a>
     </td>
     <td align="center">
-      <a href="https://github.com/peng1027">
-        <img src="https://avatars2.githubusercontent.com/u/20227510" width="100px;" alt="peng1027"/>
-      </a>
-      <br />
-      <a href="https://github.com/peng1027">peng1027</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/pampzrd">
         <img src="https://avatars2.githubusercontent.com/u/97007642" width="100px;" alt="pampzrd"/>
       </a>
       <br />
       <a href="https://github.com/pampzrd">Pamela Rod</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/peng1027">
+        <img src="https://avatars2.githubusercontent.com/u/20227510" width="100px;" alt="peng1027"/>
+      </a>
+      <br />
+      <a href="https://github.com/peng1027">peng1027</a>
     </td>
   </tr>
 </table>
