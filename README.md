@@ -233,18 +233,18 @@ contract Profile {
       <a href="https://github.com/Dev-HideyukiTakahashi">Hideyuki Takahashi</a>
     </td>
     <td align="center">
-      <a href="https://github.com/kenkirito">
-        <img src="https://avatars2.githubusercontent.com/u/68530218" width="100px;" alt="kenkirito"/>
-      </a>
-      <br />
-      <a href="https://github.com/kenkirito">lakshya</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/pampzrd">
         <img src="https://avatars2.githubusercontent.com/u/97007642" width="100px;" alt="pampzrd"/>
       </a>
       <br />
       <a href="https://github.com/pampzrd">Pamela Rod</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/kenkirito">
+        <img src="https://avatars2.githubusercontent.com/u/68530218" width="100px;" alt="kenkirito"/>
+      </a>
+      <br />
+      <a href="https://github.com/kenkirito">lakshya</a>
     </td>
     <td align="center">
       <a href="https://github.com/peng1027">
