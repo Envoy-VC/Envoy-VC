@@ -175,18 +175,18 @@ contract Profile {
       <a href="https://github.com/hyc0812">Yongchang He</a>
     </td>
     <td align="center">
-      <a href="https://github.com/felpfsf">
-        <img src="https://avatars2.githubusercontent.com/u/2619027" width="100px;" alt="felpfsf"/>
-      </a>
-      <br />
-      <a href="https://github.com/felpfsf">Felipe F.</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/petermartens98">
         <img src="https://avatars2.githubusercontent.com/u/87671757" width="100px;" alt="petermartens98"/>
       </a>
       <br />
       <a href="https://github.com/petermartens98">Peter Martens</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/felpfsf">
+        <img src="https://avatars2.githubusercontent.com/u/2619027" width="100px;" alt="felpfsf"/>
+      </a>
+      <br />
+      <a href="https://github.com/felpfsf">Felipe F.</a>
     </td>
     <td align="center">
       <a href="https://github.com/Amarjit-ph">
@@ -226,18 +226,18 @@ contract Profile {
       <a href="https://github.com/Dev-HideyukiTakahashi">Hideyuki Takahashi</a>
     </td>
     <td align="center">
-      <a href="https://github.com/pampzrd">
-        <img src="https://avatars2.githubusercontent.com/u/97007642" width="100px;" alt="pampzrd"/>
-      </a>
-      <br />
-      <a href="https://github.com/pampzrd">Pamela Rod</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/kenkirito">
         <img src="https://avatars2.githubusercontent.com/u/68530218" width="100px;" alt="kenkirito"/>
       </a>
       <br />
       <a href="https://github.com/kenkirito">lakshya</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/pampzrd">
+        <img src="https://avatars2.githubusercontent.com/u/97007642" width="100px;" alt="pampzrd"/>
+      </a>
+      <br />
+      <a href="https://github.com/pampzrd">Pamela Rod</a>
     </td>
     <td align="center">
       <a href="https://github.com/peng1027">
