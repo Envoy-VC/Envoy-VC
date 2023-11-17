@@ -219,18 +219,18 @@ contract Profile {
       <a href="https://github.com/Zorono">John Magdy Lotfy Kamel</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Dev-HideyukiTakahashi">
-        <img src="https://avatars2.githubusercontent.com/u/76458498" width="100px;" alt="Dev-HideyukiTakahashi"/>
-      </a>
-      <br />
-      <a href="https://github.com/Dev-HideyukiTakahashi">Hideyuki Takahashi</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/pampzrd">
         <img src="https://avatars2.githubusercontent.com/u/97007642" width="100px;" alt="pampzrd"/>
       </a>
       <br />
       <a href="https://github.com/pampzrd">Pamela Rod</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Dev-HideyukiTakahashi">
+        <img src="https://avatars2.githubusercontent.com/u/76458498" width="100px;" alt="Dev-HideyukiTakahashi"/>
+      </a>
+      <br />
+      <a href="https://github.com/Dev-HideyukiTakahashi">Hideyuki Takahashi</a>
     </td>
     <td align="center">
       <a href="https://github.com/kenkirito">
