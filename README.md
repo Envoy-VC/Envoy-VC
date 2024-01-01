@@ -240,18 +240,18 @@ contract Profile {
       <a href="https://github.com/Dev-HideyukiTakahashi">Hideyuki Takahashi</a>
     </td>
     <td align="center">
-      <a href="https://github.com/JohnyXu">
-        <img src="https://avatars2.githubusercontent.com/u/5744673" width="100px;" alt="JohnyXu"/>
-      </a>
-      <br />
-      <a href="https://github.com/JohnyXu">Johny Xu</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/virajkulkarni14">
         <img src="https://avatars2.githubusercontent.com/u/1186610" width="100px;" alt="virajkulkarni14"/>
       </a>
       <br />
       <a href="https://github.com/virajkulkarni14">Viraj G. Kulkarni (विराज गु. कुलकर्णी)</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/JohnyXu">
+        <img src="https://avatars2.githubusercontent.com/u/5744673" width="100px;" alt="JohnyXu"/>
+      </a>
+      <br />
+      <a href="https://github.com/JohnyXu">Johny Xu</a>
     </td>
   </tr>
 </table>
