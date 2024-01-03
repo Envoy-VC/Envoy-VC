@@ -182,18 +182,18 @@ contract Profile {
       <a href="https://github.com/petermartens98">Peter Martens</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Amarjit-ph">
-        <img src="https://avatars2.githubusercontent.com/u/28795297" width="100px;" alt="Amarjit-ph"/>
-      </a>
-      <br />
-      <a href="https://github.com/Amarjit-ph">Amarjit Pheiroijam</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/felpfsf">
         <img src="https://avatars2.githubusercontent.com/u/2619027" width="100px;" alt="felpfsf"/>
       </a>
       <br />
       <a href="https://github.com/felpfsf">Felipe F.</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Amarjit-ph">
+        <img src="https://avatars2.githubusercontent.com/u/28795297" width="100px;" alt="Amarjit-ph"/>
+      </a>
+      <br />
+      <a href="https://github.com/Amarjit-ph">Amarjit Pheiroijam</a>
     </td>
     <td align="center">
       <a href="https://github.com/Bornunique911">
@@ -226,18 +226,18 @@ contract Profile {
       <a href="https://github.com/Zorono">John Magdy Lotfy Kamel</a>
     </td>
     <td align="center">
-      <a href="https://github.com/kenkirito">
-        <img src="https://avatars2.githubusercontent.com/u/68530218" width="100px;" alt="kenkirito"/>
-      </a>
-      <br />
-      <a href="https://github.com/kenkirito">lakshya</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Dev-HideyukiTakahashi">
         <img src="https://avatars2.githubusercontent.com/u/76458498" width="100px;" alt="Dev-HideyukiTakahashi"/>
       </a>
       <br />
       <a href="https://github.com/Dev-HideyukiTakahashi">Hideyuki Takahashi</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/kenkirito">
+        <img src="https://avatars2.githubusercontent.com/u/68530218" width="100px;" alt="kenkirito"/>
+      </a>
+      <br />
+      <a href="https://github.com/kenkirito">lakshya</a>
     </td>
     <td align="center">
       <a href="https://github.com/JohnyXu">
