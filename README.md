@@ -219,6 +219,13 @@ contract Profile {
       <a href="https://github.com/pampzrd">Pamela Rod</a>
     </td>
     <td align="center">
+      <a href="https://github.com/ankushKun">
+        <img src="https://avatars2.githubusercontent.com/u/50258860" width="100px;" alt="ankushKun"/>
+      </a>
+      <br />
+      <a href="https://github.com/ankushKun">Ankush Singh</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/Zorono">
         <img src="https://avatars2.githubusercontent.com/u/19735243" width="100px;" alt="Zorono"/>
       </a>
@@ -245,13 +252,6 @@ contract Profile {
       </a>
       <br />
       <a href="https://github.com/Dev-HideyukiTakahashi">Hideyuki Takahashi</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Isallkun">
-        <img src="https://avatars2.githubusercontent.com/u/38537356" width="100px;" alt="Isallkun"/>
-      </a>
-      <br />
-      <a href="https://github.com/Isallkun">Faishal AR</a>
     </td>
   </tr>
 </table>
