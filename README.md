@@ -175,18 +175,18 @@ contract Profile {
       <a href="https://github.com/hyc0812">Yongchang He</a>
     </td>
     <td align="center">
-      <a href="https://github.com/petermartens98">
-        <img src="https://avatars2.githubusercontent.com/u/87671757" width="100px;" alt="petermartens98"/>
-      </a>
-      <br />
-      <a href="https://github.com/petermartens98">Peter Martens</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Amarjit-ph">
         <img src="https://avatars2.githubusercontent.com/u/28795297" width="100px;" alt="Amarjit-ph"/>
       </a>
       <br />
       <a href="https://github.com/Amarjit-ph">Amarjit Pheiroijam</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/petermartens98">
+        <img src="https://avatars2.githubusercontent.com/u/87671757" width="100px;" alt="petermartens98"/>
+      </a>
+      <br />
+      <a href="https://github.com/petermartens98">Peter Martens</a>
     </td>
     <td align="center">
       <a href="https://github.com/felpfsf">
@@ -240,18 +240,18 @@ contract Profile {
       <a href="https://github.com/Isallkun">Faishal AR</a>
     </td>
     <td align="center">
-      <a href="https://github.com/peng1027">
-        <img src="https://avatars2.githubusercontent.com/u/20227510" width="100px;" alt="peng1027"/>
-      </a>
-      <br />
-      <a href="https://github.com/peng1027">peng1027</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Dev-HideyukiTakahashi">
         <img src="https://avatars2.githubusercontent.com/u/76458498" width="100px;" alt="Dev-HideyukiTakahashi"/>
       </a>
       <br />
       <a href="https://github.com/Dev-HideyukiTakahashi">Hideyuki Takahashi</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/peng1027">
+        <img src="https://avatars2.githubusercontent.com/u/20227510" width="100px;" alt="peng1027"/>
+      </a>
+      <br />
+      <a href="https://github.com/peng1027">peng1027</a>
     </td>
   </tr>
 </table>
