@@ -247,11 +247,11 @@ contract Profile {
       <a href="https://github.com/peng1027">peng1027</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Dev-HideyukiTakahashi">
-        <img src="https://avatars2.githubusercontent.com/u/76458498" width="100px;" alt="Dev-HideyukiTakahashi"/>
+      <a href="https://github.com/kenkirito">
+        <img src="https://avatars2.githubusercontent.com/u/68530218" width="100px;" alt="kenkirito"/>
       </a>
       <br />
-      <a href="https://github.com/Dev-HideyukiTakahashi">Hideyuki Takahashi</a>
+      <a href="https://github.com/kenkirito">lakshya</a>
     </td>
   </tr>
 </table>
