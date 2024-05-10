@@ -196,14 +196,21 @@ contract Profile {
       <a href="https://github.com/felpfsf">Felipe F.</a>
     </td>
     <td align="center">
+      <a href="https://github.com/Kos-M">
+        <img src="https://avatars2.githubusercontent.com/u/46938390" width="100px;" alt="Kos-M"/>
+      </a>
+      <br />
+      <a href="https://github.com/Kos-M">Kostas</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://github.com/Bornunique911">
         <img src="https://avatars2.githubusercontent.com/u/69379200" width="100px;" alt="Bornunique911"/>
       </a>
       <br />
       <a href="https://github.com/Bornunique911">Bornunique911</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/christiancalara">
         <img src="https://avatars2.githubusercontent.com/u/94495956" width="100px;" alt="christiancalara"/>
@@ -245,13 +252,6 @@ contract Profile {
       </a>
       <br />
       <a href="https://github.com/FurkanEdizkan">Furkan Edizkan</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/peng1027">
-        <img src="https://avatars2.githubusercontent.com/u/20227510" width="100px;" alt="peng1027"/>
-      </a>
-      <br />
-      <a href="https://github.com/peng1027">peng1027</a>
     </td>
   </tr>
 </table>
