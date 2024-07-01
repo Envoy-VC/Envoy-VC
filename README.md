@@ -226,18 +226,18 @@ contract Profile {
       <a href="https://github.com/pampzrd">Pamela Rod</a>
     </td>
     <td align="center">
-      <a href="https://github.com/ankushKun">
-        <img src="https://avatars2.githubusercontent.com/u/50258860" width="100px;" alt="ankushKun"/>
-      </a>
-      <br />
-      <a href="https://github.com/ankushKun">Ankush Singh</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/FurkanEdizkan">
         <img src="https://avatars2.githubusercontent.com/u/65301915" width="100px;" alt="FurkanEdizkan"/>
       </a>
       <br />
       <a href="https://github.com/FurkanEdizkan">Furkan Edizkan</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ankushKun">
+        <img src="https://avatars2.githubusercontent.com/u/50258860" width="100px;" alt="ankushKun"/>
+      </a>
+      <br />
+      <a href="https://github.com/ankushKun">Ankush Singh</a>
     </td>
     <td align="center">
       <a href="https://github.com/Isallkun">
