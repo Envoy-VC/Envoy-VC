@@ -212,13 +212,6 @@ contract Profile {
       <a href="https://github.com/christiancalara">christiancalara</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Zorono">
-        <img src="https://avatars2.githubusercontent.com/u/19735243" width="100px;" alt="Zorono"/>
-      </a>
-      <br />
-      <a href="https://github.com/Zorono">John Magdy Lotfy Kamel</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/pampzrd">
         <img src="https://avatars2.githubusercontent.com/u/97007642" width="100px;" alt="pampzrd"/>
       </a>
@@ -252,6 +245,13 @@ contract Profile {
       </a>
       <br />
       <a href="https://github.com/charlyautomatiza">Charly</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/peng1027">
+        <img src="https://avatars2.githubusercontent.com/u/20227510" width="100px;" alt="peng1027"/>
+      </a>
+      <br />
+      <a href="https://github.com/peng1027">peng1027</a>
     </td>
   </tr>
 </table>
