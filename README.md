@@ -247,11 +247,11 @@ contract Profile {
       <a href="https://github.com/charlyautomatiza">Charly</a>
     </td>
     <td align="center">
-      <a href="https://github.com/peng1027">
-        <img src="https://avatars2.githubusercontent.com/u/20227510" width="100px;" alt="peng1027"/>
+      <a href="https://github.com/kenkirito">
+        <img src="https://avatars2.githubusercontent.com/u/68530218" width="100px;" alt="kenkirito"/>
       </a>
       <br />
-      <a href="https://github.com/peng1027">peng1027</a>
+      <a href="https://github.com/kenkirito">lakshya</a>
     </td>
   </tr>
 </table>
