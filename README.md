@@ -88,3 +88,7 @@ Hi, I'm [Vedant Chainani](https://envoy1084.xyz.com/), a Web3 Developer 🚀 and
 ---
 
 <img src="https://raw.githubusercontent.com/Envoy-VC/Envoy-VC/output/github-contribution-grid-snake-dark.svg">
+
+![Visitor Count](https://profile-counter.glitch.me/Envoy-VC/count.svg)
+
+---
