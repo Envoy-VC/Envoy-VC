@@ -33,9 +33,10 @@
 Hi, I'm [Vedant Chainani](https://envoy1084.xyz.com/), a Web3 Developer 🚀 and Technical Writer from India. I've been in web3 space for around 3 years shipping cool products, attending IRL Events and participating in Hackathons.
 <br>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" style="border-radius: 24px;" />
 
-<h2>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" style="border-radius: 24px; padding-top: 4rem;" />
+
+<h3>
 	<img
 		src="https://emojis.slackmojis.com/emojis/images/1680554188/65018/cat-roomba-exceptionally-fast.gif"
 		width="20" />
