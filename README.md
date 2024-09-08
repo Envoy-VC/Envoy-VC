@@ -1,6 +1,6 @@
 <h1>
 	<img
-		src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?"
+		src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif"
 		width="30" />
 	Hey there, nice to see you.
 </h1>
@@ -24,6 +24,7 @@
 	>
 	<a href="https://discordapp.com/users/665550588582297622"><img height="30" src="./icons/png/discord.png" alt="envoy_#0" ></a>
 	<a href="https://t.me/envoy1084"><img height="30" src="./icons/png/telegram.png" alt="@envoy1084" ></a>
+	<a href="https://envoy1084.xyz"><img height="30" src="./icons/png/web.png" alt="envoy1084.xyz" ></a>
 
 </p>
 
@@ -34,7 +35,12 @@ Hi, I'm [Vedant Chainani](https://envoy1084.xyz.com/), a Web3 Developer 🚀 and
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" style="border-radius: 24px;" />
 
-<div style="font-size: 2rem; padding-bottom: 2rem;">About Me...</div>
+<h2>
+	<img
+		src="https://emojis.slackmojis.com/emojis/images/1680554188/65018/cat-roomba-exceptionally-fast.gif"
+		width="20" />
+	About Me...
+</h2>
 
 - ⛴️ I love shipping products and learning new technologies.
 - 👨🏻‍💻 I love to participate in hackathons.
@@ -43,7 +49,7 @@ Hi, I'm [Vedant Chainani](https://envoy1084.xyz.com/), a Web3 Developer 🚀 and
 - 📫 Reach me at: [vedantchainani1084@gmail.com](mailto:vedantchainani1084@gmail.com)
 - 🌐 Learn More at: [envoy1084.xyz](https://envoy1084.xyz)
 
-## Github Stats
+## 📊 Github Stats
 
 <table><tr><td valign="top" width="50%">
 
@@ -67,23 +73,40 @@ Hi, I'm [Vedant Chainani](https://envoy1084.xyz.com/), a Web3 Developer 🚀 and
 
 </td></tr></table>
 
-## 📊 Development Breakdown
+<h2>
+	<img
+		src="https://emojis.slackmojis.com/emojis/images/1643514738/7421/typingcat.gif?1643514738"
+		width="20" />
+	Development Stats
+</h2>
 
 <img src="./assets/metrics.plugin.wakatime.svg">
 
-## Project Time
+<h2>
+	<img
+		src="https://emojis.slackmojis.com/emojis/images/1704759014/85857/redbull.gif"
+		width="20" />
+	Project Time
+</h2>
 
-[![Awesome Badges](https://github-readme-stats.vercel.app/api/pin/?username=Envoy-VC&repo=awesome-badges)](https://github.com/Envoy-VC/awesome-badges)
-
-[![Piper Pay](https://github-readme-stats.vercel.app/api/pin/?username=Envoy-VC&repo=piper-pay)](https://github.com/Envoy-VC/piper-pay)
-
-[![Nillion Tools](https://github-readme-stats.vercel.app/api/pin/?username=Envoy-VC&repo=nillion-tools)](https://github.com/Envoy-VC/nillion-tools)
-
-[![Blaze ID](https://github-readme-stats.vercel.app/api/pin/?username=Envoy-VC&repo=blaze-id)](https://github.com/Envoy-VC/blaze-id)
-
-[![ZK Guesser](https://github-readme-stats.vercel.app/api/pin/?username=Envoy-VC&repo=zk-guesser)](https://github.com/Envoy-VC/zk-guesser)
-
-[![AOS Playground](https://github-readme-stats.vercel.app/api/pin/?username=Envoy-VC&repo=aos-playground)](https://github.com/Envoy-VC/aos-playground)
+<a href="https://github.com/Envoy-VC/awesome-badges" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Envoy-VC&repo=awesome-badges&theme=dark"/>
+</a>
+<a href="https://github.com/Envoy-VC/piper-pay" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Envoy-VC&repo=piper-pay&theme=dark" align="center" />
+</a>
+<a href="https://github.com/Envoy-VC/blaze-id" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Envoy-VC&repo=blaze-id&theme=dark" />
+</a>
+<a href="https://github.com/Envoy-VC/nillion-tools" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Envoy-VC&repo=nillion-tools&theme=dark" />
+</a>
+<a href="https://github.com/Envoy-VC/zk-guesser" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Envoy-VC&repo=zk-guesser&theme=dark" />
+</a>
+<a href="https://github.com/Envoy-VC/aos-playground" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Envoy-VC&repo=aos-playground&theme=dark" />
+</a>
 
 ---
 
