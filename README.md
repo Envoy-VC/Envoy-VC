@@ -112,6 +112,11 @@ Hi, I'm [Vedant Chainani](https://envoy1084.xyz.com/), a Web3 Developer 🚀 and
 
 <img src="https://raw.githubusercontent.com/envoy1084/envoy1084/output/github-contribution-grid-snake-dark.svg">
 
-![Visitor Count](https://profile-counter.glitch.me/envoy1084/count.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/envoy1084/envoy1084/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/envoy1084/envoy1084/output/github-snake.svg" />
+</picture>
+
+![](https://komarev.com/ghpvc/?username=your-github-username&color=blue&style=for-the-badge)
 
 ---
