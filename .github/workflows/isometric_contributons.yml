@@ -15,7 +15,7 @@ jobs:
       token: ${{ secrets.METRICS_TOKEN }}
 
       # Options
-      user: Envoy-VC
+      user: envoy1084
       template: classic
       base: ''
       config_timezone: Asia/Calcutta
