@@ -16,7 +16,7 @@ jobs:
       filename: assets/metrics.plugin.overview.svg
       token: ${{ secrets.METRICS_TOKEN }}
       # Options
-      user: Envoy-VC
+      user: envoy1084
       template: classic
       base: header, activity, community
       config_timezone: Asia/Calcutta
