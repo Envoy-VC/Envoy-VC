@@ -14,15 +14,9 @@ jobs:
      with:
       filename: assets/metrics.plugin.activity.svg
       token: ${{ secrets.METRICS_TOKEN }}
-
-      # Options
-      user: envoy1084
-      template: classic
-      base: ''
-      config_timezone: Asia/Calcutta
+      base: ""
       plugin_activity: yes
-      plugin_activity_days: 31
-      plugin_activity_filter: issue, pr, release, fork, review, ref/create
-      plugin_activity_limit: 4
-      plugin_activity_load: 300
+      plugin_activity_limit: 5
+      plugin_activity_days: 30
       plugin_activity_visibility: all
+      plugin_activity_filter: issue, pr, release, fork, review, ref/create
