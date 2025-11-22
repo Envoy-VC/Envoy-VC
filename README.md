@@ -6,13 +6,13 @@
 </h1>
 
 <p align="left">
-	<a href="https://x.com/Envoy_1084" target="_blank"
+	<a href="https://x.com/envoy1084" target="_blank"
 		><img height="30" src="./icons/png/twitter.png"
 	/>
 	<a href="https://www.linkedin.com/in/vedant-chainani/" target="_blank"
 		><img height="30" src="./icons/png/linkedin.png"
 	/>
-	<a href="mailto:vedantchainani1084@gmail.com" target="_blank"
+	<a href="mailto:vedant@envoy1084.xyz" target="_blank"
 		><img height="30" src="./icons/png/gmail.png"
 	/>
 	<a
@@ -46,8 +46,7 @@ Hi, I'm [Vedant Chainani](https://envoy1084.xyz.com/), a Web3 Developer 🚀 and
 - ⛴️ I love shipping products and learning new technologies.
 - 👨🏻‍💻 I love to participate in hackathons.
 - 📚 I also write technical articles on my [blog](https://blog.envoy1084.xyz).
-- 🏴‍☠️ Currently Building a Secure Battleship Game on Nillion Network.
-- 📫 Reach me at: [vedantchainani1084@gmail.com](mailto:vedantchainani1084@gmail.com)
+- 📫 Reach me at: [vedantchainani1084@gmail.com](mailto:vedant@envoy1084.xyz)
 - 🌐 Learn More at: [envoy1084.xyz](https://envoy1084.xyz)
 
 ## 📊 Github Stats
@@ -90,29 +89,29 @@ Hi, I'm [Vedant Chainani](https://envoy1084.xyz.com/), a Web3 Developer 🚀 and
 	Project Time
 </h2>
 
-<a href="https://github.com/Envoy-VC/awesome-badges" target="_blank">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Envoy-VC&repo=awesome-badges&theme=dark"/>
+<a href="https://github.com/envoy1084/awesome-badges" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=envoy1084&repo=awesome-badges&theme=dark"/>
 </a>
-<a href="https://github.com/Envoy-VC/piper-pay" target="_blank">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Envoy-VC&repo=piper-pay&theme=dark" align="center" />
+<a href="https://github.com/envoy1084/piper-pay" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=envoy1084&repo=piper-pay&theme=dark" align="center" />
 </a>
-<a href="https://github.com/Envoy-VC/blaze-id" target="_blank">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Envoy-VC&repo=blaze-id&theme=dark" />
+<a href="https://github.com/envoy1084/blaze-id" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=envoy1084&repo=blaze-id&theme=dark" />
 </a>
-<a href="https://github.com/Envoy-VC/nillion-tools" target="_blank">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Envoy-VC&repo=nillion-tools&theme=dark" />
+<a href="https://github.com/envoy1084/nillion-tools" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=envoy1084&repo=nillion-tools&theme=dark" />
 </a>
-<a href="https://github.com/Envoy-VC/zk-guesser" target="_blank">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Envoy-VC&repo=zk-guesser&theme=dark" />
+<a href="https://github.com/envoy1084/zk-guesser" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=envoy1084&repo=zk-guesser&theme=dark" />
 </a>
-<a href="https://github.com/Envoy-VC/aos-playground" target="_blank">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Envoy-VC&repo=aos-playground&theme=dark" />
+<a href="https://github.com/envoy1084/aos-playground" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=envoy1084&repo=aos-playground&theme=dark" />
 </a>
 
 ---
 
-<img src="https://raw.githubusercontent.com/Envoy-VC/Envoy-VC/output/github-contribution-grid-snake-dark.svg">
+<img src="https://raw.githubusercontent.com/envoy1084/envoy1084/output/github-contribution-grid-snake-dark.svg">
 
-![Visitor Count](https://profile-counter.glitch.me/Envoy-VC/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/envoy1084/count.svg)
 
 ---
