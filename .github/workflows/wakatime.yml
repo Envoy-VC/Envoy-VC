@@ -17,7 +17,7 @@ jobs:
       filename: assets/metrics.plugin.wakatime.svg
 
       # Options
-      user: Envoy-VC
+      user: envoy1084
       template: classic
       base: ''
       config_timezone: Asia/Calcutta
