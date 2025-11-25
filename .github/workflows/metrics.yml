@@ -18,23 +18,36 @@ jobs:
               uses: lowlighter/metrics@latest
               with:
                   token: ${{ secrets.METRICS_TOKEN }}
+                  # Output Options
+                  output_action: commit
+                  committer_branch: output
+                  committer_message: "chore: update metrics"
+                  filename: metrics*
 
                   # Options
                   user: ${{ env.METRICS_USER }}
                   template: classic
                   base: header, activity, community, repositories, metadata
                   config_timezone: ${{ env.METRICS_TZ }}
+
+                  # Activity Plugin
                   plugin_activity: yes
                   plugin_activity_days: 14
                   plugin_activity_filter: all
                   plugin_activity_limit: 5
                   plugin_activity_load: 300
                   plugin_activity_visibility: all
+
+                  # Isometric Calendar Plugin
                   plugin_isocalendar: yes
-                  plugin_isocalendar_duration: half-year
+                  plugin_isocalendar_duration: full-year
+
+                  # RSS Plugin
                   plugin_rss: yes
                   plugin_rss_limit: 5
                   plugin_rss_source: https://blog.envoy1084.xyz/rss.xml
+
+                  # Wakatime Plugin
                   plugin_wakatime: yes
                   plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
                   plugin_wakatime_days: 365
@@ -57,3 +70,20 @@ jobs:
               with:
                   token: ${{ secrets.METRICS_TOKEN }}
                   template: "A profile README with <starCount> stars and <forkCount> forks 🌟"
+            - name: Push files to output branch
+              run: |
+                  git config user.name "github-actions[bot]"
+                  git config user.email "github-actions[bot]@users.noreply.github.com"
+
+                  # Switch to output branch
+                  git fetch origin $OUTPUT_BRANCH || true
+                  git checkout -B $OUTPUT_BRANCH
+
+                  # Copy generated SVGs
+                  mkdir -p assets
+                  cp -r assets/*.svg assets/*.gif .
+
+                  # Commit & push
+                  git add *.svg *.gif
+                  git commit -m "chore: update metrics" || echo "No changes to commit"
+                  git push -f origin $OUTPUT_BRANCH
