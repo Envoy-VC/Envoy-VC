@@ -32,7 +32,7 @@ jobs:
                   committer_message: ${{ env.OUTPUT_COMMIT_MESSAGE }}
                   user: ${{ env.METRICS_USER }}
 
-                  filename: assets/metrics.plugin.overview.svg
+                  filename: metrics.plugin.overview.svg
                   base: header, activity, community, repositories, metadata
             - name: Generate Isometric Calendar
               uses: lowlighter/metrics@latest
@@ -45,7 +45,7 @@ jobs:
                   committer_message: ${{ env.OUTPUT_COMMIT_MESSAGE }}
                   user: ${{ env.METRICS_USER }}
 
-                  filename: assets/metrics.plugin.isocalendar.fullyear.svg
+                  filename: metrics.plugin.isocalendar.fullyear.svg
                   base: ""
                   plugin_isocalendar: yes
                   plugin_isocalendar_duration: full-year
@@ -60,7 +60,7 @@ jobs:
                   committer_message: ${{ env.OUTPUT_COMMIT_MESSAGE }}
                   user: ${{ env.METRICS_USER }}
 
-                  filename: assets/metrics.plugin.activity.svg
+                  filename: metrics.plugin.activity.svg
                   base: ""
                   plugin_activity: yes
                   plugin_activity_days: 14
@@ -79,11 +79,11 @@ jobs:
                   committer_message: ${{ env.OUTPUT_COMMIT_MESSAGE }}
                   user: ${{ env.METRICS_USER }}
 
-                  filename: assets/metrics.plugin.rss.svg
+                  filename: metrics.plugin.rss.svg
                   base: ""
                   plugin_rss: yes
                   plugin_rss_limit: 5
-                  plugin_rss_source: https://blog.envoy1084.xyz/rss.xml
+                  plugin_rss_source: https://envoy1084.hashnode.dev/rss.xml
             - name: Generate Wakatime
               uses: lowlighter/metrics@latest
               with:
@@ -95,7 +95,7 @@ jobs:
                   committer_message: ${{ env.OUTPUT_COMMIT_MESSAGE }}
                   user: ${{ env.METRICS_USER }}
 
-                  filename: assets/metrics.plugin.wakatime.svg
+                  filename: metrics.plugin.wakatime.svg
                   base: ""
                   plugin_wakatime: yes
                   plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
@@ -127,18 +127,15 @@ jobs:
                   git fetch origin $OUTPUT_BRANCH || true
                   git checkout -B $OUTPUT_BRANCH
 
-                  # Ensure assets directory exists
-                  mkdir -p assets
-
                   # Remove old versions
-                  rm -f assets/github-snake.svg
-                  rm -f assets/github-snake-dark.svg
+                  rm -f github-snake.svg
+                  rm -f github-snake-dark.svg
 
                   # Copy generated SVGs
-                  cp github-snake.svg assets/
-                  cp github-snake-dark.svg assets/
+                  cp github-snake.svg ./
+                  cp github-snake-dark.svg ./
 
                   # Commit & push
-                  git add assets/*
+                  git add .
                   git commit -m "chore: update snake game metrics" || echo "No changes to commit"
                   git push -f origin $OUTPUT_BRANCH

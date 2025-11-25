@@ -55,21 +55,21 @@ Hi, I'm [Vedant Chainani](https://envoy1084.xyz.com/), a Web3 Developer 🚀 and
 
 <br>
 
-<img src="https://raw.githubusercontent.com/envoy1084/envoy1084/main/assets/metrics.plugin.overview.svg">
+<img src="https://raw.githubusercontent.com/envoy1084/envoy1084/output/metrics.plugin.overview.svg">
 
 </td><td valign="top" width="50%">
 
-<img src="https://raw.githubusercontent.com/envoy1084/envoy1084/main/assets/metrics.plugin.isocalendar.fullyear.svg" >
+<img src="https://raw.githubusercontent.com/envoy1084/envoy1084/output/metrics.plugin.isocalendar.fullyear.svg" >
 
 </td></tr></table>
 
 <table><tr><td valign="top" width="50%">
 
-<img src="https://raw.githubusercontent.com/envoy1084/envoy1084/main/assets/metrics.plugin.activity.svg">
+<img src="https://raw.githubusercontent.com/envoy1084/envoy1084/output/metrics.plugin.activity.svg">
 
 </td><td valign="top" width="50%">
 
-<img src="https://raw.githubusercontent.com/envoy1084/envoy1084/main/assets/metrics.plugin.stargazers.svg" >
+<img src="https://raw.githubusercontent.com/envoy1084/envoy1084/output/metrics.plugin.rss.svg" >
 
 </td></tr></table>
 
@@ -80,7 +80,7 @@ Hi, I'm [Vedant Chainani](https://envoy1084.xyz.com/), a Web3 Developer 🚀 and
 	Development Stats
 </h2>
 
-<img src="./assets/metrics.plugin.wakatime.svg">
+<img src="https://raw.githubusercontent.com/envoy1084/envoy1084/output/metrics.plugin.wakatime.svg>
 
 <h2>
 	<img
@@ -111,9 +111,9 @@ Hi, I'm [Vedant Chainani](https://envoy1084.xyz.com/), a Web3 Developer 🚀 and
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/envoy1084/envoy1084/refs/heads/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/envoy1084/envoy1084/refs/heads/output/github-snake.svg" />
-	<img alt="github-snake" src="https://raw.githubusercontent.com/envoy1084/envoy1084/refs/heads/output/github-snake.svg"" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/envoy1084/envoy1084/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/envoy1084/envoy1084/output/github-snake.svg" />
+	<img alt="github-snake" src="https://raw.githubusercontent.com/envoy1084/envoy1084/output/github-snake.svg"" />
 </picture>
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=blue&style=for-the-badge)
