@@ -83,7 +83,7 @@ jobs:
                   base: ""
                   plugin_rss: yes
                   plugin_rss_limit: 5
-                  plugin_rss_source: https://envoy1084.hashnode.dev/rss.xml
+                  plugin_rss_source: https://envoy1084.hashnode.dev/rss
             - name: Generate Wakatime
               uses: lowlighter/metrics@latest
               with:
@@ -118,24 +118,47 @@ jobs:
               with:
                   token: ${{ secrets.METRICS_TOKEN }}
                   template: "A profile README with <starCount> stars and <forkCount> forks 🌟"
-            - name: Push files to output branch
+            - name: Publish snake files to output branch
               run: |
-                  git config user.name "Vedant Chainani"
-                  git config user.email "vedantchainani1084@gmail.com"
+                  set -euo pipefail
 
-                  # Switch to output branch
-                  git fetch origin $OUTPUT_BRANCH || true
-                  git checkout -B $OUTPUT_BRANCH
+                  # Use GitHub Actions bot identity
+                  git config user.name "github-actions[bot]"
+                  git config user.email "github-actions[bot]@users.noreply.github.com"
 
-                  # Remove old versions
-                  rm -f github-snake.svg
-                  rm -f github-snake-dark.svg
+                  # Fetch all branches
+                  git fetch origin --no-tags --prune
 
-                  # Copy generated SVGs
-                  cp github-snake.svg ./
-                  cp github-snake-dark.svg ./
+                  # Remove old worktree folder
+                  rm -rf output || true
 
-                  # Commit & push
+                  # Create worktree for output branch (create if doesn't exist)
+                  if git ls-remote --heads origin "$OUTPUT_BRANCH" > /dev/null; then
+                  git worktree add output origin/"$OUTPUT_BRANCH"
+                  else
+                  git worktree add -B "$OUTPUT_BRANCH" output
+                  fi
+
+                  # ------------------------------------
+                  # Copy files to root of output branch
+                  # ------------------------------------
+                  rm -f output/*.svg output/*.gif || true
+
+                  cp -v github-snake.svg output/ || true
+                  cp -v github-snake-dark.svg output/ || true
+                  cp -v ocean.gif output/ || true`
+
+                  # ------------------------------------
+                  # Commit & push only if changes exist
+                  # ------------------------------------
+                  cd output
+
+                  if git status --porcelain | grep -q .; then
                   git add .
-                  git commit -m "chore: update snake game metrics" || echo "No changes to commit"
-                  git push -f origin $OUTPUT_BRANCH
+                  git commit -m "chore: update snake files"
+                  git push origin "$OUTPUT_BRANCH"
+                  else
+                  echo "No changes to commit"
+                  fi
+
+                  cd ..
