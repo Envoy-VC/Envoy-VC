@@ -3,7 +3,6 @@ on:
     schedule:
         - cron: "0 */12 * * *" # every 12 hours
     workflow_dispatch:
-    push: { branches: ["main"] }
 env:
     METRICS_USER: envoy1084
     METRICS_TZ: Asia/Calcutta
@@ -68,22 +67,25 @@ jobs:
                   plugin_activity_limit: 5
                   plugin_activity_load: 300
                   plugin_activity_visibility: all
-            - name: Generate RSS
+            - name: Generate Blog Posts
               uses: lowlighter/metrics@latest
               with:
                   # Base Options
-                  token: ${{ secrets.METRICS_TOKEN }}
+                  token: NOT_NEEDED
                   config_timezone: ${{ env.METRICS_TZ }}
                   output_action: ${{ env.OUTPUT_ACTION }}
                   committer_branch: ${{ env.OUTPUT_BRANCH }}
                   committer_message: ${{ env.OUTPUT_COMMIT_MESSAGE }}
                   user: ${{ env.METRICS_USER }}
 
-                  filename: metrics.plugin.rss.svg
+                  filename: metrics.plugin.blog.svg
                   base: ""
-                  plugin_rss: yes
-                  plugin_rss_limit: 5
-                  plugin_rss_source: https://envoy1084.hashnode.dev/rss
+                  plugin_posts: yes
+                  plugin_posts_source: hashnode
+                  plugin_posts_limit: 4
+                  plugin_posts_user: Envoy1084
+                  plugin_posts_descriptions: yes
+                  plugin_posts_covers: yes
             - name: Generate Wakatime
               uses: lowlighter/metrics@latest
               with:
@@ -146,7 +148,7 @@ jobs:
 
                   cp -v github-snake.svg output/ || true
                   cp -v github-snake-dark.svg output/ || true
-                  cp -v ocean.gif output/ || true`
+                  cp -v ocean.gif output/ || true
 
                   # ------------------------------------
                   # Commit & push only if changes exist

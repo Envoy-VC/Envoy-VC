@@ -63,7 +63,7 @@ Hi, I'm [Vedant Chainani](https://envoy1084.xyz.com/), a Web3 Developer 🚀 and
 
 </td></tr></table>
 
-<table><tr><td valign="top" width="50%">
+<!-- <table><tr><td valign="top" width="50%">
 
 <img src="https://raw.githubusercontent.com/envoy1084/envoy1084/output/metrics.plugin.activity.svg">
 
@@ -71,7 +71,7 @@ Hi, I'm [Vedant Chainani](https://envoy1084.xyz.com/), a Web3 Developer 🚀 and
 
 <img src="https://raw.githubusercontent.com/envoy1084/envoy1084/output/metrics.plugin.rss.svg" >
 
-</td></tr></table>
+</td></tr></table> -->
 
 <h2>
 	<img
@@ -80,7 +80,7 @@ Hi, I'm [Vedant Chainani](https://envoy1084.xyz.com/), a Web3 Developer 🚀 and
 	Development Stats
 </h2>
 
-<img src="https://raw.githubusercontent.com/envoy1084/envoy1084/output/metrics.plugin.wakatime.svg>
+<img src="https://raw.githubusercontent.com/envoy1084/envoy1084/output/metrics.plugin.wakatime.svg">
 
 <h2>
 	<img
