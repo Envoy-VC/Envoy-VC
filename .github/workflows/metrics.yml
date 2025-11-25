@@ -113,7 +113,6 @@ jobs:
                   outputs: |
                       github-snake.svg
                       github-snake-dark.svg?palette=github-dark
-                      ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9&color_background=#aaaaaa
             - name: This repo has x stars y forks
               uses: ouuan/This-repo-has-x-stars-y-forks-action@v2
               with:
@@ -128,10 +127,18 @@ jobs:
                   git fetch origin $OUTPUT_BRANCH || true
                   git checkout -B $OUTPUT_BRANCH
 
+                  # Ensure assets directory exists
+                  mkdir -p assets
+
+                  # Remove old versions
+                  rm -f assets/github-snake.svg
+                  rm -f assets/github-snake-dark.svg
+
                   # Copy generated SVGs
-                  cp -r *.svg *.gif .
+                  cp github-snake.svg assets/
+                  cp github-snake-dark.svg assets/
 
                   # Commit & push
-                  git add *.svg *.gif
-                  git commit -m "chore: update metrics" || echo "No changes to commit"
+                  git add assets/*
+                  git commit -m "chore: update snake game metrics" || echo "No changes to commit"
                   git push -f origin $OUTPUT_BRANCH
