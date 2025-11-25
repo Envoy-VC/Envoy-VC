@@ -144,11 +144,10 @@ jobs:
                   # ------------------------------------
                   # Copy files to root of output branch
                   # ------------------------------------
-                  rm -f output/*.svg output/*.gif || true
+                  rm -f github-snake.svg github-snake-dark.svg || true
 
                   cp -v github-snake.svg output/ || true
                   cp -v github-snake-dark.svg output/ || true
-                  cp -v ocean.gif output/ || true
 
                   # ------------------------------------
                   # Commit & push only if changes exist
@@ -158,7 +157,7 @@ jobs:
                   if git status --porcelain | grep -q .; then
                   git add .
                   git commit -m "chore: update snake files"
-                  git push origin "$OUTPUT_BRANCH"
+                  git push origin --force "$OUTPUT_BRANCH"
                   else
                   echo "No changes to commit"
                   fi
