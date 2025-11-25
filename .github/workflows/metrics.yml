@@ -8,46 +8,95 @@ env:
     METRICS_USER: envoy1084
     METRICS_TZ: Asia/Calcutta
     OUTPUT_BRANCH: output
+    OUTPUT_ACTION: commit
+    OUTPUT_COMMIT_MESSAGE: "chore: update metrics"
 jobs:
     github-metrics:
         runs-on: ubuntu-latest
         permissions:
             contents: write
         steps:
-            - name: Generate Metrics
+            - name: Checkout repository
+              uses: actions/checkout@v4
+              with:
+                  fetch-depth: 0
+
+            - name: Generate Overview
               uses: lowlighter/metrics@latest
               with:
+                  # Base Options
                   token: ${{ secrets.METRICS_TOKEN }}
-                  # Output Options
-                  output_action: commit
-                  committer_branch: output
-                  committer_message: "chore: update metrics"
-                  filename: metrics*
-
-                  # Options
-                  user: ${{ env.METRICS_USER }}
-                  template: classic
-                  base: header, activity, community, repositories, metadata
                   config_timezone: ${{ env.METRICS_TZ }}
+                  output_action: ${{ env.OUTPUT_ACTION }}
+                  committer_branch: ${{ env.OUTPUT_BRANCH }}
+                  committer_message: ${{ env.OUTPUT_COMMIT_MESSAGE }}
+                  user: ${{ env.METRICS_USER }}
 
-                  # Activity Plugin
+                  filename: assets/metrics.plugin.overview.svg
+                  base: header, activity, community, repositories, metadata
+            - name: Generate Isometric Calendar
+              uses: lowlighter/metrics@latest
+              with:
+                  # Base Options
+                  token: ${{ secrets.METRICS_TOKEN }}
+                  config_timezone: ${{ env.METRICS_TZ }}
+                  output_action: ${{ env.OUTPUT_ACTION }}
+                  committer_branch: ${{ env.OUTPUT_BRANCH }}
+                  committer_message: ${{ env.OUTPUT_COMMIT_MESSAGE }}
+                  user: ${{ env.METRICS_USER }}
+
+                  filename: assets/metrics.plugin.isocalendar.fullyear.svg
+                  base: ""
+                  plugin_isocalendar: yes
+                  plugin_isocalendar_duration: full-year
+            - name: Generate Activity
+              uses: lowlighter/metrics@latest
+              with:
+                  # Base Options
+                  token: ${{ secrets.METRICS_TOKEN }}
+                  config_timezone: ${{ env.METRICS_TZ }}
+                  output_action: ${{ env.OUTPUT_ACTION }}
+                  committer_branch: ${{ env.OUTPUT_BRANCH }}
+                  committer_message: ${{ env.OUTPUT_COMMIT_MESSAGE }}
+                  user: ${{ env.METRICS_USER }}
+
+                  filename: assets/metrics.plugin.activity.svg
+                  base: ""
                   plugin_activity: yes
                   plugin_activity_days: 14
                   plugin_activity_filter: all
                   plugin_activity_limit: 5
                   plugin_activity_load: 300
                   plugin_activity_visibility: all
+            - name: Generate RSS
+              uses: lowlighter/metrics@latest
+              with:
+                  # Base Options
+                  token: ${{ secrets.METRICS_TOKEN }}
+                  config_timezone: ${{ env.METRICS_TZ }}
+                  output_action: ${{ env.OUTPUT_ACTION }}
+                  committer_branch: ${{ env.OUTPUT_BRANCH }}
+                  committer_message: ${{ env.OUTPUT_COMMIT_MESSAGE }}
+                  user: ${{ env.METRICS_USER }}
 
-                  # Isometric Calendar Plugin
-                  plugin_isocalendar: yes
-                  plugin_isocalendar_duration: full-year
-
-                  # RSS Plugin
+                  filename: assets/metrics.plugin.rss.svg
+                  base: ""
                   plugin_rss: yes
                   plugin_rss_limit: 5
                   plugin_rss_source: https://blog.envoy1084.xyz/rss.xml
+            - name: Generate Wakatime
+              uses: lowlighter/metrics@latest
+              with:
+                  # Base Options
+                  token: ${{ secrets.METRICS_TOKEN }}
+                  config_timezone: ${{ env.METRICS_TZ }}
+                  output_action: ${{ env.OUTPUT_ACTION }}
+                  committer_branch: ${{ env.OUTPUT_BRANCH }}
+                  committer_message: ${{ env.OUTPUT_COMMIT_MESSAGE }}
+                  user: ${{ env.METRICS_USER }}
 
-                  # Wakatime Plugin
+                  filename: assets/metrics.plugin.wakatime.svg
+                  base: ""
                   plugin_wakatime: yes
                   plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
                   plugin_wakatime_days: 365
@@ -62,9 +111,9 @@ jobs:
               with:
                   github_user_name: ${{ env.METRICS_USER }}
                   outputs: |
-                      assets/github-snake.svg
-                      assets/github-snake-dark.svg?palette=github-dark
-                      assets/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9&color_background=#aaaaaa
+                      github-snake.svg
+                      github-snake-dark.svg?palette=github-dark
+                      ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9&color_background=#aaaaaa
             - name: This repo has x stars y forks
               uses: ouuan/This-repo-has-x-stars-y-forks-action@v2
               with:
@@ -72,16 +121,15 @@ jobs:
                   template: "A profile README with <starCount> stars and <forkCount> forks 🌟"
             - name: Push files to output branch
               run: |
-                  git config user.name "github-actions[bot]"
-                  git config user.email "github-actions[bot]@users.noreply.github.com"
+                  git config user.name "Vedant Chainani"
+                  git config user.email "vedantchainani1084@gmail.com"
 
                   # Switch to output branch
                   git fetch origin $OUTPUT_BRANCH || true
                   git checkout -B $OUTPUT_BRANCH
 
                   # Copy generated SVGs
-                  mkdir -p assets
-                  cp -r assets/*.svg assets/*.gif .
+                  cp -r *.svg *.gif .
 
                   # Commit & push
                   git add *.svg *.gif
