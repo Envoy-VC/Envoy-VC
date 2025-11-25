@@ -1,0 +1,59 @@
+name: Generate Metrics
+on:
+    schedule:
+        - cron: "0 */12 * * *" # every 12 hours
+    workflow_dispatch:
+    push: { branches: ["main"] }
+env:
+    METRICS_USER: envoy1084
+    METRICS_TZ: Asia/Calcutta
+    OUTPUT_BRANCH: output
+jobs:
+    github-metrics:
+        runs-on: ubuntu-latest
+        permissions:
+            contents: write
+        steps:
+            - name: Generate Metrics
+              uses: lowlighter/metrics@latest
+              with:
+                  token: ${{ secrets.METRICS_TOKEN }}
+
+                  # Options
+                  user: ${{ env.METRICS_USER }}
+                  template: classic
+                  base: header, activity, community, repositories, metadata
+                  config_timezone: ${{ env.METRICS_TZ }}
+                  plugin_activity: yes
+                  plugin_activity_days: 14
+                  plugin_activity_filter: all
+                  plugin_activity_limit: 5
+                  plugin_activity_load: 300
+                  plugin_activity_visibility: all
+                  plugin_isocalendar: yes
+                  plugin_isocalendar_duration: half-year
+                  plugin_rss: yes
+                  plugin_rss_limit: 5
+                  plugin_rss_source: https://blog.envoy1084.xyz/rss.xml
+                  plugin_wakatime: yes
+                  plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+                  plugin_wakatime_days: 365
+                  plugin_wakatime_languages_other: yes
+                  plugin_wakatime_limit: 5
+                  plugin_wakatime_repositories_visibility: all
+                  plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+                  plugin_wakatime_url: https://wakatime.com
+                  plugin_wakatime_user: current
+            - name: Generate Snake Game
+              uses: Platane/snk@v3
+              with:
+                  github_user_name: ${{ env.METRICS_USER }}
+                  outputs: |
+                      assets/github-snake.svg
+                      assets/github-snake-dark.svg?palette=github-dark
+                      assets/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9&color_background=#aaaaaa
+            - name: This repo has x stars y forks
+              uses: ouuan/This-repo-has-x-stars-y-forks-action@v2
+              with:
+                  token: ${{ secrets.METRICS_TOKEN }}
+                  template: "A profile README with <starCount> stars and <forkCount> forks 🌟"
